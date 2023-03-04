@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>menu2/index.html</loc>
+    <loc>co_robimy/index.html</loc>
     <lastmod>2023-03-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>menu3/index.html</loc>
-    <lastmod>2023-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>index.html</loc>
+    <loc>galeria/index.html</loc>
     <lastmod>2023-03-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -26,7 +20,13 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>menu1/index.html</loc>
+    <loc>index.html</loc>
+    <lastmod>2023-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>kim_jestesmy/index.html</loc>
     <lastmod>2023-03-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
