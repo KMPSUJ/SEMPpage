@@ -47,14 +47,6 @@ body {
   padding: 0;
 }
 
-html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  scroll-behavior: smooth;
-  
-}
-
 @media (min-width: 38em) {
   html {
     font-size: 20px;
@@ -63,7 +55,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #333333;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -81,16 +73,11 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* Headings */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
   font-weight: bold;
   line-height: 1.25;
@@ -247,6 +234,7 @@ tbody tr:nth-child(odd) th {
 
 html {
   font-family: Geneva,Tahoma,Verdana,sans-serif; /* MOŻNA DAĆ LEPSZĄ CZCIONE */
+  scroll-behavior: smooth; 
 }
 
 /*
@@ -258,7 +246,10 @@ html {
 
 .sidebar {
   text-align: left;
-  padding: 2rem 1rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   color: rgba(255, 255, 255, 0.5);
   background-color: #003866;
 }
@@ -288,21 +279,22 @@ html {
 }
 
 .sidebar-contact {
-  position: absolute;
-  /* bottom: 0; */
+  position: fixed;
+  bottom: 75px;
   font-size: 0.80rem;
-
 }
 
+.sidebar-contact a:hover { text-decoration: none; }
+
 .sidebar-contact h4{
- margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .sidebar-author {
-  position: absolute;
+  position: fixed;
   bottom: 0;
-  margin-up: 5%;
-  text-align: center;
+  padding-bottom: 1rem;
+  margin: auto;
 }
 
 /* Sidebar nav */
@@ -332,7 +324,7 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-@media (min-width: 768px) {
+@media (min-width: 768px) { 
   .sidebar-sticky {
     position: absolute;
     right: 1rem;
@@ -348,6 +340,13 @@ a.sidebar-nav-item:focus {
  * with a 25%-wide `.sidebar`.
  */
 
+.content-section { /* TODO fix padding-top */
+  background-color: #262626;
+  padding: 3% 2%;
+  margin: 3% 1%;
+
+}
+
 .content {
   padding-top: 2rem;
   padding-bottom: rem;
@@ -359,4 +358,10 @@ a.sidebar-nav-item:focus {
     margin-left: 15rem;
     margin-right: 0rem;
   }
+}
+
+.header {
+    background-color: #262626;
+    padding: 1% 1%;
+
 }

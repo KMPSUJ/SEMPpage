@@ -105,9 +105,9 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { 
+.franklin-content h1 {
     font-size: 30px;
-    text-align: center; 
+    text-align: center;
 }
 .franklin-content h2 { font-size: 28px; }
 .franklin-content h3 { font-size: 20px; }
@@ -131,7 +131,7 @@ h6 {
 .franklin-content h2 {
   padding-bottom: 0.3em;
   border-bottom: 1px solid lightgrey;
-  margin-top: 2em;
+  margin-top: 0em;
   margin-bottom: 1em;
 }
 
