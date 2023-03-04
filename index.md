@@ -21,3 +21,37 @@ Linkedin:
 e-mail:
 
 zarzad
+
+## Kim jesteśmy
+
+wspólne zdjęcie here
+
+### Zarząd
+skład zarządu
+  
+ 
+### Komisja rewizyjna
+skład komisji
+  
+## Co robimy
+
+### SeMPowisko
+sempowisko info
+
+### Sempinaria (kołowe seminaria)
+przykładowe zdjęcia z sempinariów z podpisami
+
+
+### Wydarzenia integracyjne
+pizza, naleśniki, inne zabawy
+
+## Galeria
+
+### Szkoły jesienne
+zdjęcia
+
+### Szkoły letnie
+zdjęcia
+
+### Inne eventy fajne
+zdjęcia
