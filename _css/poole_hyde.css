@@ -282,9 +282,14 @@ html {
   position: fixed;
   bottom: 75px;
   font-size: 0.80rem;
+  padding: 0.5%;
+  line-height: 1.4;
 }
 
-.sidebar-contact a:hover { text-decoration: none; }
+.sidebar-contact a:hover { 
+    transition: 0.2s;
+    background-color: #808080;  
+ }
 
 .sidebar-contact h4{
   margin-bottom: 0;
@@ -309,7 +314,7 @@ html {
 
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .sidebar-nav-item.active {
