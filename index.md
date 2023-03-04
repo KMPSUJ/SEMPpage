@@ -31,7 +31,7 @@
     <h3 id="szkoły_jesienne"><a href="#szkoły_jesienne" class="header-anchor">Szkoły jesienne</a></h3>
     <p>zdjęcia</p>
     <h3 id="szkoły_letnie"><a href="#szkoły_letnie" class="header-anchor">Szkoły letnie</a></h3>
-    <p>zdjęcia</p>
+    <img src="/assets/szkola_letnia_kolowicze.jpg"></img>
     <h3 id="inne_eventy_fajne"><a href="#inne_eventy_fajne" class="header-anchor">Inne eventy fajne</a></h3>
     <p>zdjęcia</p>
 </div>

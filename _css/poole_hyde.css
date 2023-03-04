@@ -274,8 +274,10 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  /* font-family: "Abril Fatface", serif; */
+  font-family: CMU Classical serif;
   font-size: 3.25rem;
+  text-align: center;
 }
 
 .sidebar-contact {
@@ -349,7 +351,10 @@ a.sidebar-nav-item:focus {
   background-color: #262626;
   padding: 3% 2%;
   margin: 3% 1%;
+}
 
+.content-section img {
+    
 }
 
 .content {
