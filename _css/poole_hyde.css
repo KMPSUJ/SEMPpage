@@ -287,9 +287,17 @@ html {
   font-size: 3.25rem;
 }
 
+.sidebar-contact {
+  position: absolute;
+  /* bottom: 0; */
+  font-size: 0.80rem;
+
+}
+
 .sidebar-author {
   position: absolute;
   bottom: 0;
+  margin-up: 5%;
   text-align: center;
 }
 
