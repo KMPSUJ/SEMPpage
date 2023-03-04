@@ -105,11 +105,14 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 30px; }
-.franklin-content h2 { font-size: 22px; }
+.franklin-content h1 { 
+    font-size: 30px;
+    text-align: center; 
+}
+.franklin-content h2 { font-size: 28px; }
 .franklin-content h3 { font-size: 20px; }
 
-.franklin-content h1,
+.franklin-content
 h2,
 h3,
 h4,
