@@ -11,16 +11,31 @@ Wydział Fizyki, Astronomii i Informatyki Stosowanaej UJ, pokój H-1-0-3
 Discord: 
  
 https://discord.gg/zTdm3MA6SE
+~~~
+<i class="fab fa-discord"></i>
+~~~
  
 Strona na Facebooku: \fig{/assets/strona_kola_qr.jpg}
+~~~
+<i class="icon-facebook-squared"></i>
+~~~
  
 Grupa na Facebooku: \fig{/assets/grupa_kola_qr.jpg}
+~~~
+<i class="icon-facebook-squared"></i>
+~~~
  
+
 Linkedin:
+~~~
+<i class="icon-linkedin-squared"></i>
+~~~
  
 e-mail:
-
-zarzad
+~~~
+<i class="icon-mail-squared"></i>
+~~~
+zarzadsmp@gmail.com
 
 ## Kim jesteśmy
 

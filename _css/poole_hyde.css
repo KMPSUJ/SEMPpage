@@ -51,6 +51,8 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  scroll-behavior: smooth;
+  
 }
 
 @media (min-width: 38em) {
@@ -244,7 +246,7 @@ tbody tr:nth-child(odd) th {
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Geneva,Tahoma,Verdana,sans-serif; /* MOŻNA DAĆ LEPSZĄ CZCIONE */
 }
 
 /*
