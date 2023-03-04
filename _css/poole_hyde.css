@@ -294,6 +294,10 @@ html {
 
 }
 
+.sidebar-contact h4{
+ margin-bottom: 0;
+}
+
 .sidebar-author {
   position: absolute;
   bottom: 0;

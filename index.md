@@ -7,6 +7,9 @@
 
 wspólne zdjęcie here
 
+### Historia koła
+historia here
+
 ### Zarząd
 skład zarządu
   
