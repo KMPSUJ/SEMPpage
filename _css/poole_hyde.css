@@ -297,9 +297,9 @@ html {
 
 .sidebar-contact {
   position: fixed;
-  bottom: 75px;
+  bottom: 0;
   font-size: 0.80rem;
-  padding: 0.5%;
+  padding: 1% 0.5%;
   line-height: 1.4;
 }
 
@@ -369,8 +369,10 @@ a.sidebar-nav-item:focus {
   margin: 3% 1%;
 }
 
-.content-section img {
-    
+.content-section img { /* TODO fix ratio */
+    max-width:100%;
+    max-height:100%;
+    object-fit: contain;
 }
 
 .content {
