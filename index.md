@@ -9,13 +9,32 @@
 </div>
 <div class="content-section">
     <h2 id="kim_jesteśmy"><a href="#kim_jesteśmy" class="header-anchor">Kim jesteśmy</a></h2>
-    <p>wspólne zdjęcie here</p>
+    <img src="/assets/szkola_letnia_kolowicze.jpg"></img>
     <h3 id="historia_koła"><a href="#historia_koła" class="header-anchor">Historia koła</a></h3>
     <p>historia here</p>
     <h3 id="zarząd"><a href="#zarząd" class="header-anchor">Zarząd</a></h3>
-    <p>skład zarządu</p>
+    <div class="portrait" style="width: 25%;">
+    Jakub Firlej <br/> Prezes
+    </div>
+    <div class="portrait" style="width: 25%;">
+    Igor Piechowiak <br/> Skarbnik
+    </div>
+    <div class="portrait" style="width: 25%;">
+    Aleksander Lenart <br/> Zastępca Prezesa
+    </div>
+    <div class="portrait" style="width: 25%;">
+    Bartosz Żbik <br/> Zastępca Skarbnika
+    </div>
     <h3 id="komisja_rewizyjna"><a href="#komisja_rewizyjna" class="header-anchor">Komisja rewizyjna</a></h3>
-    <p>skład komisji</p>
+    <div class="portrait" style="width: 33%;">
+    Mateusz Winiarski
+    </div>
+    <div class="portrait" style="width: 33%;">
+    Ksymena Poradzisz
+    </div>
+    <div class="portrait" style="width: 33%;">
+    Marta Luterek
+    </div>
 </div>
 <div class="content-section">
     <h2 id="co_robimy"><a href="#co_robimy" class="header-anchor">Co robimy</a></h2>
@@ -32,6 +51,7 @@ Organizowane przez Członków Koła seminaria służą do dzielenia się tematam
     Mimo, że nauka i studia w życiu sempów zajmują większą cześć życia (minimalnie 81 000 min, czyli 60 ECTS-ów na rok), zawsze znajdzie się trochę czasu na spotkanie w bezpiecznej przystani pokoju H-1-03 na WFAIS. Można tam znaleźć kolegę, który pomoże w zdaniu przedmiotu, pudełko pizzy (z zawartością lub gdy szczęście nie dopisze bez), a w szczególnych przypadkach włączoną naleśnikarkę, przy której sam Prezes może przygotować strudzonym studentom ciepły obiad w postaci pysznego naleśnika.
     </p>
 </div>
+<!-- 
 <div class="content-section">
     <h2 id="galeria"><a href="#galeria" class="header-anchor">Galeria</a></h2>
     <h3 id="szkoły_jesienne"><a href="#szkoły_jesienne" class="header-anchor">Szkoły jesienne</a></h3>
@@ -40,6 +60,8 @@ Organizowane przez Członków Koła seminaria służą do dzielenia się tematam
     <img src="/assets/szkola_letnia_kolowicze.jpg"></img>
     <h3 id="inne_eventy_fajne"><a href="#inne_eventy_fajne" class="header-anchor">Inne eventy fajne</a></h3>
     <p>zdjęcia</p>
+
+-->
 </div>
 ~~~
 

@@ -328,6 +328,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 5rem;
+  margin-left: 1rem;
 }
 
 .sidebar-nav-item {
@@ -407,3 +408,16 @@ a.sidebar-nav-item:focus {
     padding: 1% 1%;
 
 }
+
+.portrait {
+    font-size: 20px;
+    float: left;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.portrait img {
+
+
+}
+
