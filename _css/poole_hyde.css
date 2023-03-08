@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #fff;
   text-rendering: optimizeLegibility;
 }
 
@@ -233,7 +233,7 @@ tbody tr:nth-child(odd) th {
  */
 
 html {
-  font-family: Geneva,Tahoma,Verdana,sans-serif; /* MOŻNA DAĆ LEPSZĄ CZCIONE */
+  font-family: 'Nunito Sans', sans-serif; /* MOŻNA DAĆ LEPSZĄ CZCIONE */
   scroll-behavior: smooth; 
 }
 
@@ -303,6 +303,11 @@ html {
   line-height: 1.4;
 }
 
+.sidebar-contact p {
+  color: #ffffff;
+  font-weight: 800;
+
+}
 
 .sidebar-contact a:hover { 
     transition: 0.2s;
@@ -363,10 +368,19 @@ a.sidebar-nav-item:focus {
  * with a 25%-wide `.sidebar`.
  */
 
-.content-section { /* TODO fix padding-top */
+.content-section {
   background-color: #262626;
   padding: 3% 2%;
   margin: 3% 1%;
+}
+
+.content-section p, h3 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.content-section h3 {
+    font-weight: 1000;
 }
 
 .content-section img { /* TODO fix ratio */
