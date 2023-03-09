@@ -9,47 +9,70 @@
 </div>
 <div class="content-section">
     <h2 id="kim_jesteśmy"><a href="#kim_jesteśmy" class="header-anchor">Kim jesteśmy</a></h2>
-    <img src="/assets/szkola_letnia_kolowicze.jpg"></img>
-    <h3 id="historia_koła"><a href="#historia_koła" class="header-anchor">Historia koła</a></h3>
+    <img src="/assets/szkola_letnia_kolowicze.jpg" style="width: 700px; "></img>
+    <p style="font-size: 15px; text-align: center; ">Szkoła letnia 2022 <br/> autorka: Martyna Koprowska</p>
+    <h3 id="o kole"><a href="#o-kole" class="header-anchor">O kole</a></h3>
+    <p>
+        Nasze koło powstało w 1998 roku, a od tamtego czasu zrzesza studentów wszystkich kierunków Międzywydziałowych Studiów Matematyczno-Przyrodniczych. Po wielu przejściach i migracjach wylądowaliśmy w pokoju H-1-0-3 na Wydziale Fizyki, Astronomii i Informatyki Stosowanej UJ, gdzie można nas spotkać do dziś. <br/> 
+        Cechą od zawsze wyróżniającą nasze koło jest jego interdyscyplinarność; w przeciwieństwie do większości tego typu organizacji studenckich, w H-1-0-3 spotkać można zarówno matematyków jak i informatyków, chemików, fizyków, biologów i geologów. Ta mnogość zainteresowań, choć czasem wprowadzająca lekkie zamieszanie, pozwala jednak na poszerzenie swojej wiedzy i ciekawości z dziedzin zupełnie odmiennych od studiowanej. Nasi kołowicze wygłaszają referaty równie różnorodne jak oni sami, a podczas dni naleśnika, dni pizzy, poseminaryjnych wyjść na piwo czy organizowanych kilka razy do roku wyjazdach w góry można się także poznać mniej akademicko, a bardziej koleżeńsko. <br/>
+        Dołączyć do koła można w dowolnym momencie od pierwszego dnia studiów, wystarczy odezwać się w dowolnym z podanych mediów lub odezwać bezpośrednio do skarbnika.
+    </p>
+    <h3 id="historia_koła"><a href="#historia_koła" class="header-anchor">Krótka historia koła</a></h3>
     <p>historia here</p>
     <h3 id="zarząd"><a href="#zarząd" class="header-anchor">Zarząd</a></h3>
+<!--     <br/>
     <div class="portrait" style="width: 25%;">
-    Jakub Firlej <br/> Prezes
+    <img src="/assets/prezes.png" />
+    <p>Jakub Firlej <br/> Prezes</p>
     </div>
     <div class="portrait" style="width: 25%;">
-    Igor Piechowiak <br/> Skarbnik
+    <img src="/assets/skarbnik.png" />
+    <p> Igor Piechowiak <br/> Skarbnik </p>
     </div>
     <div class="portrait" style="width: 25%;">
-    Aleksander Lenart <br/> Zastępca Prezesa
+    <img src="/assets/zast_prezesa.png" />
+    <p> Aleksander Lenart <br/> Zastępca Prezesa </p>
     </div>
     <div class="portrait" style="width: 25%;">
-    Bartosz Żbik <br/> Zastępca Skarbnika
-    </div>
+    <img src="/assets/zast_skarbnika.png" />
+    <p> Bartosz Żbik <br/> Zastępca Skarbnika </p>
+    </div> -->
     <h3 id="komisja_rewizyjna"><a href="#komisja_rewizyjna" class="header-anchor">Komisja rewizyjna</a></h3>
+   <!--  <br/>
     <div class="portrait" style="width: 33%;">
-    Mateusz Winiarski
+    <img src="/assets/komisarz_1.png" />
+    <p> Mateusz Winiarski </p>
     </div>
     <div class="portrait" style="width: 33%;">
-    Ksymena Poradzisz
+    <img src="/assets/komisarz_3.png" />
+    <p> Ksymena Poradzisz </p>
     </div>
     <div class="portrait" style="width: 33%;">
-    Marta Luterek
-    </div>
+    <img src="/assets/komisarz_2.png" />
+    <p> Marta Luterek </p>
+    </div> -->
 </div>
 <div class="content-section">
     <h2 id="co_robimy"><a href="#co_robimy" class="header-anchor">Co robimy</a></h2>
-    <h3 id="sempowisko"><a href="#sempowisko" class="header-anchor">SeMPowisko</a></h3>
-    <p>
-    Coroczna Interdyscyplinarna Studencka Konferencja „SeMPowisko” jest wydarzeniem o zasięgu (co najmniej) ogólnopolskim, organizowanym przez nasze Koło. Głównym celem konferencji jest spotkanie studentów różnych nauk ścisłych i przyrodniczych oraz utworzenie przestrzeni do interdyscyplinarnej dyskusji. Podczas konferencji posługujemy się językiem angielskim, co umożliwia lepsze przygotowanie na konferencje międzynarodowe oraz podszlifowanie swoich umiejętności językowych.
-    </p>
+    <div class="event-descrb">
+      <h3 id="sempowisko"><a href="#sempowisko" class="header-anchor">SeMPowisko</a></h3>
+      <p>
+      Coroczna Interdyscyplinarna Studencka Konferencja „SeMPowisko” jest wydarzeniem o zasięgu (co najmniej) ogólnopolskim, organizowanym przez nasze Koło. Głównym celem konferencji jest spotkanie studentów różnych nauk ścisłych i przyrodniczych oraz utworzenie przestrzeni do interdyscyplinarnej dyskusji. Podczas konferencji posługujemy się językiem angielskim, co umożliwia lepsze przygotowanie na konferencje międzynarodowe oraz podszlifowanie swoich umiejętności językowych.
+      </p>
+      <img src="/assets/szkola_letnia_kolowicze.jpg" style="width: 700px; float: "></img>
+    </div>
+    <div class="event-descrb">
     <h3 id="sempinaria_kołowe_seminaria"><a href="#sempinaria_kołowe_seminaria" class="header-anchor">Sempinaria &#40;kołowe seminaria&#41;</a></h3>
     <p>    
 Organizowane przez Członków Koła seminaria służą do dzielenia się tematami, niszowymi zagadnieniami i ciekawostkami, których nie sposób znaleźć w sylabusach przedmiotów. Prócz możliwości wysłuchania barwnego referatu o tematyce z jednej z wielu dziedzin naukowych studiowanych przez Kołowiczów, spotkanie po godzinach zajęć w sali seminaryjnej pozwala poznać lepiej kolegów i koleżanki oraz uzyskać wgląd w to, co ich interesuje. Po wysłuchanym wykładzie proces poznawczy sempów jest najczęściej kontynuowany z tej mniej naukowej strony, w barze Tea Time.
-    </p> 
+    </p>
+    </div>
+    <div class="event-descrb">
     <h3 id="wydarzenia_integracyjne"><a href="#wydarzenia_integracyjne" class="header-anchor">Wydarzenia integracyjne</a></h3>
     <p>
     Mimo, że nauka i studia w życiu sempów zajmują większą cześć życia (minimalnie 81 000 min, czyli 60 ECTS-ów na rok), zawsze znajdzie się trochę czasu na spotkanie w bezpiecznej przystani pokoju H-1-03 na WFAIS. Można tam znaleźć kolegę, który pomoże w zdaniu przedmiotu, pudełko pizzy (z zawartością lub gdy szczęście nie dopisze bez), a w szczególnych przypadkach włączoną naleśnikarkę, przy której sam Prezes może przygotować strudzonym studentom ciepły obiad w postaci pysznego naleśnika.
     </p>
+    </div>
 </div>
 <!-- 
 <div class="content-section">

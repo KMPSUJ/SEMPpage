@@ -176,8 +176,9 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
   border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Tables */
@@ -416,8 +417,27 @@ a.sidebar-nav-item:focus {
     margin-bottom: 2%;
 }
 
-.portrait img {
-
+.portrait p {
+  padding-top: 3%;
 
 }
 
+.portrait img {
+    width: 230px;
+
+}
+
+.event-descrb {
+
+}
+
+.event-descrb img {
+  margin-top: auto;
+  margin-bottom: auto;
+  max-width: 30%;
+} 
+
+.event-descrb p {
+  max-width: 60%;
+  float:left;
+}

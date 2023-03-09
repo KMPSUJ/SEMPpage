@@ -241,9 +241,7 @@ td {
 ================================================================== */
 
 .franklin-content img {
-  width: 30%;
-  text-align: center;
-  padding-left: 10%;
+  /* padding-left: 10%; */
 }
 
 .franklin-content .img-small img {
