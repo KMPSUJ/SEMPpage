@@ -108,8 +108,8 @@ h6 {
 
 /* Body text */
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+/*  margin-top: 0;
+  margin-bottom: 1rem;*/
 }
 
 strong {
@@ -374,26 +374,22 @@ a.sidebar-nav-item:focus {
   background-color: #262626;
   padding: 3% 2%;
   margin: 3% 1%;
+  height: auto;
 }
 
-.content-section p, h3 {
+.content-section p {
     font-weight: 600;
     font-size: 20px;
 }
 
 .content-section h3 {
     font-weight: 1000;
-}
-
-.content-section img { /* TODO fix ratio */
-    max-width:100%;
-    max-height:100%;
-    object-fit: contain;
+    font-size: 20px;
 }
 
 .content {
   padding-top: 2rem;
-  padding-bottom: rem;
+  padding-bottom: 1rem;
 }
 
 @media (min-width: 768px) {
@@ -407,11 +403,10 @@ a.sidebar-nav-item:focus {
 .header {
     background-color: #262626;
     padding: 1% 1%;
-
 }
 
 .portrait {
-    font-size: 20px;
+    font-size: 20pxt
     float: left;
     text-align: center;
     margin-bottom: 2%;
@@ -428,16 +423,34 @@ a.sidebar-nav-item:focus {
 }
 
 .event-descrb {
+  margin: 1rem;
+}
+
+.event-descrb p {
+  width: 70%;
+  float:left;
+  padding-right: 1%;
+}
+
+.event-descrb .fig {
+  width: 30%;
+  float: left;
+}
+
+.fig {
 
 }
 
-.event-descrb img {
+.fig img { /* figure */
   margin-top: auto;
   margin-bottom: auto;
-  max-width: 30%;
-} 
+  width: 700px;
+}
 
-.event-descrb p {
-  max-width: 60%;
-  float:left;
+.fig p { /* description of figure */
+  font-size: 15px; 
+  text-align: center;
+  padding-top: 1%;
+  margin: auto;
+
 }

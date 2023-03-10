@@ -2,29 +2,29 @@
     VARIABLES
 ================================================================== */
 
-:root {
+/*:root {
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%);
-}
+}*/
 
 /* ==================================================================
     DEFAULT FONT AND LAYOUT
 ================================================================== */
-
+/*
 html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: var(--normal);
   color: var(--text-color);
-}
+}*/
 
 /* ==================================================================
     BASIC GRID FOR PROFILE PIC
 ================================================================== */
 
-.franklin-content .row {
+/*.franklin-content .row {
   display: block;
 }
 
@@ -45,7 +45,7 @@ html {
   position: relative;
   top: -0.5em;
   font-size: 70%;
-}
+}*/
 
 /* ==================================================================
     FOOT / COPYRIGHT
@@ -72,17 +72,18 @@ html {
     TEXT GEOMETRY
 ================================================================== */
 
-.franklin-toc li {
-  /* Avoid clickable elements being too close together. */
-  margin: 0.6rem 0;
-}
+/* Avoid clickable elements being too close together. */
+/*.franklin-toc li {
+  margin: 0.6rem 0; 
+  } 
+*/
 
-.franklin-content {
+/*.franklin-content {
   position: relative;
   padding-left: 12.5%;
   padding-right: 12.5%;
   line-height: 1.35em;
-}
+}*/
 
 /* On wide screens, fix content width to a max value. */
 @media (min-width: 940px) {
