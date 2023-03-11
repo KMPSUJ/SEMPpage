@@ -426,16 +426,20 @@ a.sidebar-nav-item:focus {
   margin: 1rem;
 }
 
-.event-descrb p {
-  width: 70%;
-  float:left;
-  padding-right: 1%;
+@media (min-width: 1000px) {
+        .event-descrb {
+          	width: 100%;
+                display: flex;
+        }
+        .event-descrb p {
+          padding-right: 1%;
+        }
+
+        .event-descrb .fig {
+          flex-grow: 1;
+        }
 }
 
-.event-descrb .fig {
-  width: 30%;
-  float: left;
-}
 
 .fig {
 
