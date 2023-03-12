@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: smp.if.uj.edu.pl/sitemap.xml
 
 User-agent: *
 Disallow:
