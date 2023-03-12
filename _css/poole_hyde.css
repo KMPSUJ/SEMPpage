@@ -409,6 +409,13 @@ a.sidebar-nav-item:focus {
     padding: 1% 1%;
 }
 
+.header img { /* TODO fix appropriate size of this img */
+  max-height: 130px;
+/*  float: left;*/
+/*  padding-left: 1%;*/
+  padding-top: 1%;
+}
+
 .portrait {
     font-size: 20pxt
     float: left;
