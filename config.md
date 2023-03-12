@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "KMPS UJ"
 website_descr = "Strona główna KMPS UJ"
-website_url   = "" 
+website_url   = "smp.if.uj.edu.pl" 
 +++
 
 <!--
