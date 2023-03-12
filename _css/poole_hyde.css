@@ -376,14 +376,14 @@ a.sidebar-nav-item:focus {
 
 .content-section {
   background-color: #262626;
-  padding: 3% 2%;
+  padding: 3% 1.3%;
   margin: 3% 1%;
   height: auto;
 }
 
 .content-section p {
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .content-section h3 {
@@ -430,7 +430,7 @@ a.sidebar-nav-item:focus {
   margin: 1rem;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1200px) { /* TODO could use further adjustments */
         .event-descrb {
           	width: 100%;
                 display: flex;
@@ -442,17 +442,19 @@ a.sidebar-nav-item:focus {
         .event-descrb .fig {
           flex-grow: 1;
         }
+
+        .event-descrb .fig img { /* TODO fix for different screens */
+          width: 1500px;
+        }
 }
 
-
 .fig {
-
+  padding-right: 2%;
 }
 
 .fig img { /* figure */
   margin-top: auto;
   margin-bottom: auto;
-  width: 1500px;
 }
 
 .fig p { /* description of figure */
