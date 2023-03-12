@@ -54,7 +54,7 @@ body {
 }
 
 body {
-  color: #515151;
+  color: #e6e6e6;
   background-color: #333333;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -310,6 +310,10 @@ html {
 
 }
 
+.sidebar-contact a {
+  padding: 0.5% 1.6%;
+}
+
 .sidebar-contact a:hover { 
     transition: 0.2s;
     background-color: #808080;  
@@ -448,7 +452,7 @@ a.sidebar-nav-item:focus {
 .fig img { /* figure */
   margin-top: auto;
   margin-bottom: auto;
-  width: 700px;
+  width: 1500px;
 }
 
 .fig p { /* description of figure */
@@ -457,4 +461,12 @@ a.sidebar-nav-item:focus {
   padding-top: 1%;
   margin: auto;
 
+}
+
+.header-anchor {
+  cursor: text;
+}
+
+.header-anchor:active {
+  pointer-events: none;
 }
