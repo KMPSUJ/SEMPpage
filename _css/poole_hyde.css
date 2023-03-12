@@ -181,6 +181,14 @@ img {
   margin-right: auto;
 }
 
+/* SVG icons */
+.svg-icon {
+  display: inline-block;
+  width: 16.3px;
+  height: 13.45px;
+  overflow: hidden;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
