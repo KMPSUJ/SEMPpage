@@ -307,7 +307,7 @@ html {
 .sidebar-contact {
   position: fixed;
   bottom: 0;
-  font-size: 0.80rem;
+  font-size: 0.9rem;
   padding: 1% 0.5%;
   line-height: 1.4;
 }
@@ -421,7 +421,7 @@ a.sidebar-nav-item:focus {
   max-height: 130px;
 /*  float: left;*/
 /*  padding-left: 1%;*/
-  padding-top: 1%;
+  padding-top: 2%;
 }
 
 .portrait {
