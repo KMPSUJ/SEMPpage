@@ -273,6 +273,7 @@ html {
     text-align: left;
   }
 }
+
 /* hide contact info, and author on the sidebar if screen is to small */
 @media only screen and (max-width: 768px) {
 	.sidebar-contact,
@@ -288,6 +289,14 @@ html {
 		display: none;
 	}
 }
+
+
+/*@media only screen and (min-height: 769px) {
+  .mobile-contact {
+    display: none;
+  }
+}*/
+
 
 /* Sidebar links */
 .sidebar a {
@@ -430,7 +439,7 @@ a.sidebar-nav-item:focus {
 }
 
 .portrait {
-    font-size: 20pxt
+    font-size: 20px;
     float: left;
     text-align: center;
     margin-bottom: 2%;
@@ -491,4 +500,33 @@ a.sidebar-nav-item:focus {
 
 .header-anchor:active {
   pointer-events: none;
+}
+
+.contact-block {
+  width: 12.5%;
+  height: 80%;
+  float: left;
+  text-align: center;
+  padding: 1% 1%;
+}
+
+.contact-block:hover {
+  transition: 0.2s;
+  background-color: #808080;
+}
+
+.contact-block a {
+  color: rgb(232, 230, 227);
+}
+
+.contact-block a:hover{
+  text-decoration: none;
+}
+
+.contact-block img {
+  margin: auto;
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 20px;
+  height: 20px;
 }
