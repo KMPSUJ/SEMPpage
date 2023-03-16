@@ -462,7 +462,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 1200px) { /* TODO could use further adjustments */
         .event-descrb {
           	width: 100%;
-                display: flex;
+            display: flex;
         }
         .event-descrb p {
           padding-right: 1%;
@@ -502,12 +502,22 @@ a.sidebar-nav-item:focus {
   pointer-events: none;
 }
 
+.contact-blocks {
+  display: flex;
+  justify-content: center;
+}
+
 .contact-block {
-  width: 12.5%;
-  height: 80%;
-  float: left;
+  display: flex;
+  flex-direction: column;
+  width: 15%;
   text-align: center;
-  padding: 1% 1%;
+  font-size: 12px;
+  overflow-wrap: break-word;
+  padding-left: 0.88%;
+  padding-right: 0.88%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 .contact-block:hover {
@@ -527,6 +537,6 @@ a.sidebar-nav-item:focus {
   margin: auto;
   margin-left: 30%;
   margin-right: 30%;
-  width: 20px;
-  height: 20px;
+  width: 18px;
+  height: 18px;
 }
