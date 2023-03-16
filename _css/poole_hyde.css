@@ -276,6 +276,17 @@ html {
 
 /* hide contact info, and author on the sidebar if screen is to small */
 @media only screen and (max-width: 768px) {
+  .sidebar {
+    display: flex;
+  }
+  .sidebar-about {
+      width: 40%;
+      height: 30%;
+      overflow-wrap: break-word;
+  }
+  .sidebar-nav {
+    margin-bottom: 0;
+  }
 	.sidebar-contact,
 	.sidebar-author
        	{
@@ -354,7 +365,7 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 5rem;
+/*  margin-bottom: 5rem;*/
   margin-left: 1rem;
 }
 
@@ -510,6 +521,7 @@ a.sidebar-nav-item:focus {
 .contact-block {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   width: 15%;
   text-align: center;
   font-size: 12px;
@@ -537,6 +549,6 @@ a.sidebar-nav-item:focus {
   margin: auto;
   margin-left: 30%;
   margin-right: 30%;
-  width: 18px;
+  width: 40%;
   height: 18px;
 }
