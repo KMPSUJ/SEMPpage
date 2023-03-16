@@ -294,6 +294,11 @@ html {
   color: #fff;
 }
 
+@font-face {
+  font-family: CMU Classical serif;
+  src: url("../fonts/cmunci.ttf") format("truetype");
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
