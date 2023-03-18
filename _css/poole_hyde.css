@@ -282,7 +282,9 @@ html {
   .sidebar-about {
       width: 40%;
       height: 30%;
-      overflow-wrap: break-word;
+  }
+  .sidebar-about h1 { /* TODO DLACZEGO NIE DZIAŁA?? */
+      font-size: 20px;
   }
   .sidebar-nav {
     margin-bottom: 0;
@@ -302,12 +304,6 @@ html {
 }
 
 
-/*@media only screen and (min-height: 769px) {
-  .mobile-contact {
-    display: none;
-  }
-}*/
-
 
 /* Sidebar links */
 .sidebar a {
@@ -323,9 +319,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  /* font-family: "Abril Fatface", serif; */
   font-family: CMU Classical serif;
-  font-size: 3.25rem;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -524,7 +519,7 @@ a.sidebar-nav-item:focus {
   justify-content: center;
   width: 15%;
   text-align: center;
-  font-size: 12px;
+  font-size: 60%;
   overflow-wrap: break-word;
   padding-left: 0.88%;
   padding-right: 0.88%;
