@@ -188,12 +188,12 @@ td {
 }
 
 .franklin-content a {
-  color: #004de6;
+  color: #3d6ccc;
   text-decoration: none;
 }
 
 .franklin-content a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* ==================================================================
