@@ -284,12 +284,14 @@ html {
   src: url("../fonts/cmunci.ttf") format("truetype");
 }
 
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: CMU Classical serif;
-  font-size: 40px;
+  font-size: 2rem;
+  max-width: 100%;
   text-align: center;
 }
 
@@ -357,26 +359,32 @@ a.sidebar-nav-item:focus {
       width: 40%;
       height: 30%;
   }
-  .sidebar-about h1 { /* TODO DLACZEGO NIE DZIAŁA?? */
-      font-size: 20px;
-  }
   .sidebar-nav {
     margin-bottom: 0;
   }
 	.sidebar-contact,
 	.sidebar-author
-       	{
-		display: none;
-	}
+       	{ display: none; }
 }
 @media only screen and (max-height: 768px) {
 	.sidebar-contact,
 	.sidebar-author
-       	{
-		display: none;
-	}
+       	{ display: none; }
 }
-
+@media only screen and (min-height: 768px) { /* show kontakt-section when sidebar-contact disappears */
+  #kontakt-section,
+  #kontakt-section-link
+   { display: none; }
+}
+@media only screen and (max-width: 583px) {
+  .sidebar-about h1 { font-size: 1.5rem; }
+}
+@media only screen and (max-width: 326px) {
+  .sidebar-about h1 { font-size: 1.2rem; }
+}
+@media only screen and (max-width: 250px) {
+  .sidebar-about h1 { font-size: 1rem; }
+}
 
 /* Sticky sidebar
  *
@@ -508,15 +516,16 @@ a.sidebar-nav-item:focus {
 
 .contact-blocks {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  margin: auto;
 }
 
 .contact-block {
   text-align: center;
   font-size: 60%;
   overflow-wrap: break-word;
-  padding-top: 1%;
-  padding-bottom: 1%;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 
 .contact-block:hover {
