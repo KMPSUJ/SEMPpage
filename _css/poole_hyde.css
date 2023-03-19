@@ -274,37 +274,6 @@ html {
   }
 }
 
-/* hide contact info, and author on the sidebar if screen is to small */
-@media only screen and (max-width: 768px) {
-  .sidebar {
-    display: flex;
-  }
-  .sidebar-about {
-      width: 40%;
-      height: 30%;
-  }
-  .sidebar-about h1 { /* TODO DLACZEGO NIE DZIAŁA?? */
-      font-size: 20px;
-  }
-  .sidebar-nav {
-    margin-bottom: 0;
-  }
-	.sidebar-contact,
-	.sidebar-author
-       	{
-		display: none;
-	}
-}
-@media only screen and (max-height: 768px) {
-	.sidebar-contact,
-	.sidebar-author
-       	{
-		display: none;
-	}
-}
-
-
-
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -378,6 +347,35 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/* Sidebar settings for mobile version */
+/* hide contact info, and author on the sidebar if screen is to small */
+@media only screen and (max-width: 768px) {
+  .sidebar {
+    display: flex;
+  }
+  .sidebar-about {
+      width: 40%;
+      height: 30%;
+  }
+  .sidebar-about h1 { /* TODO DLACZEGO NIE DZIAŁA?? */
+      font-size: 20px;
+  }
+  .sidebar-nav {
+    margin-bottom: 0;
+  }
+	.sidebar-contact,
+	.sidebar-author
+       	{
+		display: none;
+	}
+}
+@media only screen and (max-height: 768px) {
+	.sidebar-contact,
+	.sidebar-author
+       	{
+		display: none;
+	}
+}
 
 
 /* Sticky sidebar
