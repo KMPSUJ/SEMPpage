@@ -16,6 +16,7 @@ generate_rss = true
 website_title = "KMPS UJ"
 website_descr = "Strona główna KMPS UJ"
 website_url   = "smp.if.uj.edu.pl" 
+fd_mtime = "19-03-2023"
 +++
 
 <!--
