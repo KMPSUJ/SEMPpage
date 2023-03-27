@@ -2,6 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
+using Dates
 author = "KMPS UJ"
 mintoclevel = 2
 
@@ -16,7 +17,7 @@ generate_rss = true
 website_title = "KMPS UJ"
 website_descr = "Strona główna KMPS UJ"
 website_url   = "smp.if.uj.edu.pl" 
-fd_mtime = "19-03-2023"
+fd_mtime = Dates.format(today(), "yyyy-mm-dd")
 +++
 
 <!--
