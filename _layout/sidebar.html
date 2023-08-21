@@ -18,15 +18,27 @@
       <a class="sidebar-nav-item {{ispage index.html}}active{{end}} {{ispage zarzad.html}}active{{end}}" href="/#szkoły" style="font-size: 13px; text-indent: 12px;">Szkoły</a>
 
       <a class="sidebar-nav-item {{ispage /absolwenci/index.html}}active{{end}}" href="/absolwenci">Dla Absolwentów</a>
-
-      <a id="kontakt-section-link" class="sidebar-nav-item {{ispage index.html}}active{{end}} {{ispage zarzad.html}}active{{end}}" href="/#kontakt">Kontakt</a>
-    </nav>
-    {{else}}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="/">Strona Główna</a>
-      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
     </nav>
     {{end}}
+
+    <!-- Sidebar for Absolwenci -->
+    {{ispage absolwenci/*}}
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Strona Główna</a>
+    </nav>
+    {{end}}
+
+    <!-- Sidebar for UnownedContent -->
+    {{ispage credits}}
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Strona Główna</a>
+    </nav>
+    {{end}}
+
+
+    <nav class="sidebar-nav">
+      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
+    </nav>
 
     <div class="sidebar-contact">
       <h4>Kontakt</h4><br>
