@@ -551,3 +551,12 @@ a.sidebar-nav-item:focus {
   width: 40%;
   height: 18px;
 }
+
+/* NEWS PAGES*/
+
+
+.news-toc-item {
+  display: block;
+  line-height: 1.75;
+}
+

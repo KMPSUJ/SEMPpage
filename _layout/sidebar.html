@@ -3,6 +3,16 @@
       <img src="/assets/semp_lepszy.png" alt="SMP logo">
       <h1>KMPSUJ</h1>
     </div>
+    
+    {{ if isnewspage }}
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Strona Główna</a>
+      <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
+      {{ insert tmp/aktualnosci_side_bar.html }}
+      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
+    </nav>
+    {{ else }}
+
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item {{ispage index.html}}active{{end}} {{ispage zarzad.html}}active{{end}}" href="/#kim_jesteśmy">Kim jesteśmy</a>
       <a class="sidebar-nav-item {{ispage index.html}}active{{end}} {{ispage zarzad.html}}active{{end}}" href="/#o_kole" style="font-size: 13px; text-indent: 12px;">O kole</a>
@@ -14,6 +24,9 @@
       <a class="sidebar-nav-item {{ispage index.html}}active{{end}} {{ispage zarzad.html}}active{{end}}" href="/#szkoły" style="font-size: 13px; text-indent: 12px;">Szkoły</a>
       <a id="kontakt-section-link" class="sidebar-nav-item {{ispage index.html}}active{{end}} {{ispage zarzad.html}}active{{end}}" href="/#kontakt">Kontakt</a>
     </nav>
+    {{ end }}
+
+    <!-- SIDEBAR CONTACT INFORMATION -->
     <div class="sidebar-contact">
       <h4>Kontakt</h4><br>
       <p>Wydział Fizyki, Astronomii i <br> Informatyki Stosowanej UJ <br> Pokój H-1-03</p>

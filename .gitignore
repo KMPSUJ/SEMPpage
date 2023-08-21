@@ -1,3 +1,6 @@
+# TMP files used to generate sidebars
+_layout/tmp/
+
 # Franklin.jl
 __site/
 .DS_Store
