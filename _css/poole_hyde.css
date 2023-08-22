@@ -472,6 +472,9 @@ html {
 .event-descrb {
   margin: 1rem;
 }
+.event-descrb p {
+  float: left;
+}
 
 @media (min-width: 1200px) { /* TODO could use further adjustments */
         .event-descrb {
@@ -486,7 +489,6 @@ html {
           flex-grow: 1;
         }
 
-	.event-descrb,
 	.fig img,
 	.fig-centered img { /* TODO fix for different screens */
           width: 1500px;
