@@ -1,3 +1,4 @@
+@@content-section
 # Dla Absolwentów i nie tylko
 
 Jeśli jesteś absolwentem SMP albo osobą zaprzyjaźnioną z SMP, to bardzo cieszymy się, że jesteś z nami.
@@ -23,6 +24,10 @@ Na podany w ankiecie adres mailowy wysyłane będą najważniejsze wiadomości o
 Można też śledzić naszą stronę internetową, tą którą własnie czytasz.
 Postaramy się umieszczać tutaj najistotniejsze informacje dotyczące 30-lecia.
 
-![](/absolwenci/noc-dinozaurow.jpg)
+@@fig
+\figwidth{/absolwenci/noc-dinozaurow.jpg}{80%}
 
- 
+autor: Sam nie wiem.
+@@
+
+@@ 
