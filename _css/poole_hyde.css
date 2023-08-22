@@ -340,14 +340,13 @@ html {
   line-height: 1.75;
 }
 
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: none;
+.sidebar-nav-iner-item {
+  display: block;
+  line-height: 1.75;
+  font-size: 13px;
+  text-indent: 12px;
 }
 
-.sidebar-nav-item.active {
-  font-weight: bold;
-}
 
 /* Sidebar settings for mobile version */
 /* hide contact info, and author on the sidebar if screen is to small */
