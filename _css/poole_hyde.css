@@ -482,11 +482,13 @@ html {
           padding-right: 1%;
         }
 
-        .event-descrb .fig {
+        .event-descrb .fig .fig-centered {
           flex-grow: 1;
         }
 
-        .event-descrb .fig img { /* TODO fix for different screens */
+	.event-descrb,
+	.fig img,
+	.fig-centered img { /* TODO fix for different screens */
           width: 1500px;
         }
 }
@@ -495,12 +497,20 @@ html {
   padding-right: 2%;
 }
 
-.fig img { /* figure */
+.fig-centered {
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+
+.fig img,
+.fig-centered img { /* figure */
   margin-top: auto;
   margin-bottom: auto;
 }
 
-.fig p { /* description of figure */
+.fig p,
+.fig-centered p { /* description of figure */
   font-size: 15px; 
   text-align: center;
   padding-top: 1%;
