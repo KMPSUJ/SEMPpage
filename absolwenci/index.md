@@ -14,11 +14,11 @@ Studia SMP powstały w 1994 roku, więc w maju 2024 będziemy obchodić okrągł
 W związku z tym serdecznie zapraszamy wszystkich absolwentów i osoby zaprzyjaźnione z kierunkiem do udziału w nadchodzących wydarzeniach.
 
 Dla użytkowników Facebooka przygotowana została grupa zrzeszająca absolwentów dostępna pod tym linkiem
-[smp.if.uj.edu.pl/grupa-absolwentow](http://smp.if.uj.edu.pl/grupa-absolwentow).
+[smp.if.uj.edu.pl/grupa-absolwentow-fb](http://smp.if.uj.edu.pl/grupa-absolwentow-fb).
 Jest to doskonałe miejsce do wymiany wspomnień i śledzenia najnowszych informacji o organizowanym jubileuszu.
 
 Dla osób preferujących informacje mailowe powstała ankieta dostępna pod tym linkiem
-[smp.if.uj.edu.pl/ankieta-lista-mailowa](http://smp.if.uj.edu.pl/ankieta-lista-mailowa).
+[smp.if.uj.edu.pl/lista-mailowa-30lecie](http://smp.if.uj.edu.pl/lista-mailowa-30lecie).
 Na podany w ankiecie adres mailowy wysyłane będą najważniejsze wiadomości organizacyjne dotyczące 30-lecia.
  
 Można też śledzić naszą stronę internetową, tą którą właśnie czytasz.
