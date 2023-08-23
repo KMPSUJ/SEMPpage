@@ -5,7 +5,8 @@
     </div>
 
     <!-- Sidebar for Index and Zarzad -->
-    {{ispage index || ispage zarzad}}
+    <!-- Sidebar for Absolwenci TO BE CHANGED -->
+    {{ispage index || ispage zarzad || ispage absolwenci/* }}
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="/#kim_jesteśmy">Kim jesteśmy</a>
       <a class="sidebar-nav-iner-item" href="/#o_kole">O kole</a>
@@ -18,13 +19,6 @@
       <a class="sidebar-nav-iner-item" href="/#szkoły">Szkoły</a>
 
       <a class="sidebar-nav-item" href="/absolwenci">Dla Absolwentów</a>
-    </nav>
-    {{end}}
-
-    <!-- Sidebar for Absolwenci -->
-    {{ispage absolwenci/*}}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="/">Strona Główna</a>
     </nav>
     {{end}}
 
