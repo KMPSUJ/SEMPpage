@@ -28,7 +28,7 @@ Na podany w ankiecie adres mailowy wysyłane będą najważniejsze wiadomości o
 Można też śledzić naszą stronę internetową (tą którą właśnie czytasz!). Postaramy się i tutaj umieszczać najistotniejsze informacje dotyczące 30-lecia.
 
 @@fig-centered
-\figwidth{/absolwenci/noc-dinozaurow.jpg}{90%}
+\figwidth{/absolwenci/noc-dinozaurow.jpg}{600px}
 
 autorka: Ksymena Poradzisz
 @@
