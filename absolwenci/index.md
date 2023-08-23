@@ -1,10 +1,14 @@
 @@content-section
+
 # Dla Absolwentów i nie tylko
 
 Jeśli jesteś absolwentem SMP albo osobą zaprzyjaźnioną z SMP, to bardzo cieszymy się, że jesteś z nami.
 Poniżej zebraliśmy kilka przydatnych informacji dotyczących zbliżającego się jubileuszu.
 Jeśli masz taką możliwość, to bardzo prosimy o rozpowszechanianie poniżysz informacji wśród absolwentów.
 
+@@
+
+@@content-section
 
 ## 30-Lecie SMP
 
@@ -24,10 +28,10 @@ Na podany w ankiecie adres mailowy wysyłane będą najważniejsze wiadomości o
 Można też śledzić naszą stronę internetową, tą którą właśnie czytasz.
 Postaramy się umieszczać tutaj najistotniejsze informacje dotyczące 30-lecia.
 
-@@fig
-\figwidth{/absolwenci/noc-dinozaurow.jpg}{80%}
+@@fig-centered
+\figwidth{/absolwenci/noc-dinozaurow.jpg}{90%}
 
-autor: Sam nie wiem.
+autorka: Ksymena Poradzisz
 @@
 
 @@ 
