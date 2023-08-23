@@ -295,6 +295,25 @@ html {
   text-align: center;
 }
 
+/* Sidebar nav */
+.sidebar-nav {
+/*  margin-bottom: 5rem;*/
+  margin-left: 1rem;
+}
+
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+
+.sidebar-nav-iner-item {
+  display: block;
+  line-height: 1.75;
+  font-size: 13px;
+  text-indent: 12px;
+}
+
+/* sidebar-contact */ 
 .sidebar-contact {
   position: fixed;
   bottom: 0;
@@ -322,30 +341,6 @@ html {
   margin-bottom: 0;
 }
 
-.sidebar-author {
-  position: fixed;
-  bottom: 0;
-  padding-bottom: 1rem;
-  margin: auto;
-}
-
-/* Sidebar nav */
-.sidebar-nav {
-/*  margin-bottom: 5rem;*/
-  margin-left: 1rem;
-}
-
-.sidebar-nav-item {
-  display: block;
-  line-height: 1.75;
-}
-
-.sidebar-nav-iner-item {
-  display: block;
-  line-height: 1.75;
-  font-size: 13px;
-  text-indent: 12px;
-}
 
 /* Contact sections are turnd off unless screen is boath wide and high */
 .sidebar-contact {
