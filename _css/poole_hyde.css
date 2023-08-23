@@ -347,6 +347,22 @@ html {
   text-indent: 12px;
 }
 
+/* Contact sections are turnd off unless screen is boath wide and high */
+.sidebar-contact {
+	display: none;
+}
+
+@media (min-height: 768px) and (min-width: 769px) {
+	.sidebar-contact {
+        	display: block;
+	}
+  
+	#kontakt-section,
+	#kontakt-section-link {
+		display: none;
+	}
+}
+
 
 /* Sidebar settings for mobile version */
 /* hide contact info, and author on the sidebar if screen is to small */
@@ -361,23 +377,12 @@ html {
   .sidebar-nav {
     margin-bottom: 0;
   }
-	.sidebar-contact,
-	.sidebar-author
-       	{ display: none; }
+
   #about-section {
     padding: 4.6%;
   }
 }
-@media only screen and (max-height: 768px) {
-	.sidebar-contact,
-	.sidebar-author
-       	{ display: none; }
-}
-@media only screen and (min-height: 768px) { /* show kontakt-section when sidebar-contact disappears */
-  #kontakt-section,
-  #kontakt-section-link
-   { display: none; }
-}
+
 @media only screen and (max-width: 583px) {
   .sidebar-about h1 { font-size: 1.5rem; }
 }
@@ -393,7 +398,7 @@ html {
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
  * contents to the bottom of the sidebar in tablets and up.
  */
-
+/*
 @media (min-width: 768px) { 
   .sidebar-sticky {
     position: absolute;
@@ -402,13 +407,26 @@ html {
     left: 1rem;
   }
 }
-
+*/
 
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
+
+.content {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+  .content {
+    max-width: 100rem;
+    margin-left: 15rem;
+    margin-right: 0rem;
+  }
+}
 
 .content-section {
   background-color: #262626;
@@ -429,19 +447,6 @@ html {
 .content-section h3 {
     font-weight: 1000;
     font-size: 20px;
-}
-
-.content {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-}
-
-@media (min-width: 768px) {
-  .content {
-    max-width: 100rem;
-    margin-left: 15rem;
-    margin-right: 0rem;
-  }
 }
 
 .header {
