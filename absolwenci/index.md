@@ -14,7 +14,7 @@ Jeśli masz taką możliwość, to bardzo prosimy o rozpowszechanianie poniżysz
 
 ![](/absolwenci/baner.png)
 
-Studia SMP powstały w 1994 roku, więc w maju 2024 będziemy obchodić okrągły jubileusz.
+Studia SMP powstały w 1993 roku, więc w maju 2024 będziemy obchodić okrągły jubileusz.
 W związku z tym serdecznie zapraszamy wszystkich absolwentów i osoby zaprzyjaźnione z kierunkiem do udziału w nadchodzących wydarzeniach.
 
 Dla użytkowników Facebooka przygotowana została grupa zrzeszająca absolwentów dostępna pod tym linkiem
