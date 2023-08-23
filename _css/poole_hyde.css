@@ -263,17 +263,6 @@ html {
   background-color: #003866;
 }
 
-@media (min-width: 768px) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 14rem;
-    text-align: left;
-  }
-}
-
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -347,7 +336,7 @@ html {
 	display: none;
 }
 
-@media (min-height: 768px) and (min-width: 769px) {
+@media (min-height: 768px) and (min-width: 768px) {
 	.sidebar-contact {
         	display: block;
 	}
@@ -359,9 +348,14 @@ html {
 }
 
 
+
+/*
+ *
+ * sidebar Positioning
+ *
+ */
+
 /* Sidebar settings for mobile version */
-/* hide contact info, and author on the sidebar if screen is to small */
-@media only screen and (max-width: 768px) {
   .sidebar {
     display: flex;
   }
@@ -373,11 +367,6 @@ html {
     margin-bottom: 0;
   }
 
-  #about-section {
-    padding: 4.6%;
-  }
-}
-
 @media only screen and (max-width: 583px) {
   .sidebar-about h1 { font-size: 1.5rem; }
 }
@@ -388,21 +377,29 @@ html {
   .sidebar-about h1 { font-size: 1rem; }
 }
 
-/* Sticky sidebar
- *
- * Add the `sidebar-sticky` class to the sidebar's container to affix it the
- * contents to the bottom of the sidebar in tablets and up.
+
+/* For wide screens the sidebar goes to the left.
+ * Be aware that it is coordinated with serring margin for content.
  */
-/*
-@media (min-width: 768px) { 
-  .sidebar-sticky {
-    position: absolute;
-    right: 1rem;
-    bottom: 1rem;
-    left: 1rem;
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 14rem;
+    text-align: left;
+  }
+
+  /* overwrite setup for mobile */
+  .sidebar {
+    display: inline;
+  }
+  .sidebar-about {
+      width: auto;
+      height: auto;
   }
 }
-*/
 
 /* Container
  *
