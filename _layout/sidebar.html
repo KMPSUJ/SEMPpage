@@ -5,8 +5,7 @@
     </div>
 
     <!-- Sidebar for Index and Zarzad -->
-    <!-- Sidebar for Absolwenci TO BE CHANGED -->
-    {{ispage index || ispage zarzad || ispage absolwenci/* }}
+    {{ ispage index || ispage zarzad }}
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="/#kim_jesteśmy">Kim jesteśmy</a>
       <a class="sidebar-nav-iner-item" href="/#o_kole">O kole</a>
@@ -25,7 +24,8 @@
     {{end}}
 
     <!-- Sidebar for UnownedContent -->
-    {{ispage credits}}
+    <!-- Sidebar for Absolwenci TO BE CHANGED -->
+    {{ ispage absolwenci/* || ispage credits }}
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="/">Strona Główna</a>
       <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
