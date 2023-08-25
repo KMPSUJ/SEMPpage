@@ -12,7 +12,9 @@ Jeśli masz taką możliwość, to bardzo prosimy o rozpowszechanianie poniższy
 
 ## 30-lecie SMP
 
-![](/absolwenci/baner.png)
+@@baner  
+\fig{/absolwenci/baner.png}
+@@
 
 Studia Matematyczno-Przyrodnicze powstały w 1993 roku, w maju 2024 roku będziemy zatem obchodzić okrągły jubileusz.
 W związku z tym serdecznie zapraszamy wszystkich absolwentów i osoby zaprzyjaźnione z kierunkiem do udziału w nadchodzących wydarzeniach.
