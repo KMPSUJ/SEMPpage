@@ -10,7 +10,7 @@ Jeśli masz taką możliwość, to bardzo prosimy o rozpowszechanianie poniższy
 
 @@content-section
 
-## 30-Lecie SMP
+## 30-lecie SMP
 
 ![](/absolwenci/baner.png)
 
