@@ -86,7 +86,7 @@ autorka: Ksymena Poradzisz
 Mimo, że nauka i studia w życiu sempów zajmują większą część życia (minimalnie 81 000 min, czyli 60 ECTS-ów na rok),
 zawsze znajdzie się trochę czasu na spotkanie w bezpiecznej przystani pokoju H-1-03 na WFAIS.
 Można tam znaleźć kolegę, który pomoże w zdaniu przedmiotu, pudełko pizzy
-(z zawartością lub gdy szczęście nie dopisze bez), a w szczególnych przypadkach włączoną naleśnikarkę,
+(z zawartością lub, gdy szczęście nie dopisze, bez), a w szczególnych przypadkach włączoną naleśnikarkę,
 przy której sam Prezes może przygotować strudzonym studentom ciepły obiad w postaci pysznego naleśnika.
 
 @@fig
@@ -106,7 +106,7 @@ kilka razy do roku wybieramy się na kilkudniowe wyjazdy w góry (dalej nazywane
 Szkoły to wyjątkowe wydarzenia, podczas których poznajemy się,
 trochę wędrujemy (choć zawsze z uwzględnieniem i tych większych,
 i mniejszych zapaleńców), podczas obowiązkowej sesji referatowej dzielimy się swoimi zainteresowaniami
-(nie zawsze naukowymi!), słowem- miło spędzamy czas.
+(nie zawsze naukowymi!), słowem – miło spędzamy czas.
 @@fig
 \fig{/assets/szkola_letnia_kolowicze.jpg}
 
