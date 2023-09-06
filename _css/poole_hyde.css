@@ -570,6 +570,8 @@ html {
   height: 18px;
 }
 
-.song {
+@media screen and (min-width:468px) {
+  .song {
   line-height: 50%;
+  }
 }
