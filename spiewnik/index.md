@@ -3,7 +3,7 @@
 ᠎	
 
 ## Hiszpańskie dziewczyny  
-
+@@song
 
 Żegnajcie nam dziś hiszpańskie dziewczyny  
 
@@ -84,9 +84,9 @@ Leniwie popłyną znów rejsu godziny
 Wspomnienie ust waszych przysporzy nam sił
 
 ᠎	
-
+@@
 ## Przestrzenie liniowe
-
+@@song
 Żegnajcie nam dziś, przestrzenie liniowe,  
 
 Żegnajcie nam dziś, macierze ich baz  
@@ -203,3 +203,4 @@ Ten przedmiot w historii rusza tylko raz
 
 I smak waszych baz, przestrzenie liniowe...
 
+@@
