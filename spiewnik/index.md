@@ -204,3 +204,94 @@ Ten przedmiot w historii rusza tylko raz
 I smak waszych baz, przestrzenie liniowe...
 
 @@
+
+## Przechyły (wersja Firleja)
+@@song
+Pierwszy raz przy pełnym takielunku
+
+Biorę ster i trzymam kurs na wiatr
+
+I jest jak przy pierwszym pocałunku
+
+W ustach sól gorącej wody smak
+
+᠎	
+
+Oho ho! przechyły i przechyły
+
+Oho ho! za falą fala mknie (ale fala)
+
+Oho ho! trzymajcie się dziewczyny (za liny)
+
+Ale wiatr, ósemka chyba dmie
+
+᠎	
+
+Zwrot przez sztag - o'key zaraz zrobię
+
+Słyszę jak kapitan cicho klnie
+
+Gubię wiatr i zamiast w niego dziobem
+
+To on mnie od tyłu kumple w śmiech
+
+᠎	
+
+Oho ho! przechyły i przechyły
+
+Oho ho! za falą fala mknie (ale fala)
+
+Oho ho! trzymajcie się dziewczyny (za liny)
+
+Ale wiatr, ósemka chyba dmie
+
+᠎	
+
+Hej ty tam za burtę wychylony
+
+Tu naprawdę się nie ma z czego śmiać
+
+Cicho siedź i lepiej proś Neptuna
+
+Żeby coś nie spadło Ci na kark
+
+᠎	
+
+Oho ho! przechyły i przechyły
+
+Oho ho! za falą fala mknie (ale fala)
+
+Oho ho! trzymajcie się dziewczyny (za liny)
+
+Ale wiatr, ósemka chyba dmie
+
+᠎	
+
+Krople mgły w tęczowych kropel pyle
+
+Tańczy jacht po deskach spływa dzień
+
+Jutro znów wypłynę, bo odkryłem
+
+Morze, jacht, żeglarską starą pieśń
+
+᠎	
+
+Oho ho! przechyły i przechyły
+
+Oho ho! za falą fala mknie (ale fala)
+
+Oho ho! trzymajcie się dziewczyny (za liny)
+
+Ale wiatr, ósemka chyba dmie
+
+᠎	
+
+Oho ho! przestrzenie i przestrzenie
+
+Oho ho! za ramką ramka mknie (ale ramka)
+
+Oho ho! trzymajcie się sempy (za rzepy)
+
+Ale sesja, piątka chyba dmie
+@@
