@@ -1,7 +1,8 @@
+@@header
 # Śpiewnik Koła Matematyczno-Przyrodniczego Studentów UJ  
-
+@@
 ᠎	
-
+@@content-section
 ## Hiszpańskie dziewczyny  
 @@song
 
@@ -294,4 +295,5 @@ Oho ho! za ramką ramka mknie (ale ramka)
 Oho ho! trzymajcie się sempy (za rzepy)
 
 Ale sesja, piątka chyba dmie
+@@
 @@
