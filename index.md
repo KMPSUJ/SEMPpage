@@ -109,7 +109,6 @@ i mniejszych zapaleńców), podczas obowiązkowej sesji referatowej dzielimy si�
 (nie zawsze naukowymi!), słowem – miło spędzamy czas.\\
 \\
 [Kołowy śpiewnik](/spiewnik/)
-
 @@fig
 \fig{/assets/szkola_letnia_kolowicze.jpg}
 
