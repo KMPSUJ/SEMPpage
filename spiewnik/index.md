@@ -3,6 +3,8 @@
 @@
 
 @@content-section
+\toc
+
 ## Hiszpańskie dziewczyny
 
 Żegnajcie nam dziś hiszpańskie dziewczyny  \\
