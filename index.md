@@ -106,7 +106,9 @@ kilka razy do roku wybieramy się na kilkudniowe wyjazdy w góry (dalej nazywane
 Szkoły to wyjątkowe wydarzenia, podczas których poznajemy się,
 trochę wędrujemy (choć zawsze z uwzględnieniem i tych większych,
 i mniejszych zapaleńców), podczas obowiązkowej sesji referatowej dzielimy się swoimi zainteresowaniami
-(nie zawsze naukowymi!), słowem – miło spędzamy czas.
+(nie zawsze naukowymi!), słowem – miło spędzamy czas.\\
+\\
+[Kołowy śpiewnik](/spiewnik/)
 @@fig
 \fig{/assets/szkola_letnia_kolowicze.jpg}
 
