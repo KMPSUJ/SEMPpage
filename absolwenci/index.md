@@ -16,7 +16,7 @@ Jeśli masz taką możliwość, to bardzo prosimy o rozpowszechanianie poniższy
 \fig{/absolwenci/baner.png}
 @@
 
-Studia Matematyczno-Przyrodnicze powstały w 1993 roku, w maju 2024 roku będziemy zatem obchodzić okrągły jubileusz.
+Studia Matematyczno-Przyrodnicze powstały w 1994 roku, w maju 2024 roku będziemy zatem obchodzić okrągły jubileusz.
 W związku z tym serdecznie zapraszamy wszystkich absolwentów i osoby zaprzyjaźnione z kierunkiem do udziału w nadchodzących wydarzeniach.
 
 Dla użytkowników Facebooka przygotowana została grupa zrzeszająca absolwentów, dostępna pod linkiem:
