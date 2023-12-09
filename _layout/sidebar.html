@@ -18,6 +18,7 @@
       <a class="sidebar-nav-iner-item" href="/#szkoły">Szkoły</a>
 
       <a class="sidebar-nav-item" href="/absolwenci">Dla Absolwentów</a>
+      <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
 
       <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
     </nav>
@@ -28,10 +29,21 @@
     {{ ispage absolwenci/* || ispage credits }}
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="/">Strona Główna</a>
+      <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
       <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
     </nav>
     {{end}}
 
+    <!-- Sidebar for Aktualnosci -->
+    {{ ispage aktualnosci/* }}
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Strona Główna</a>
+      <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
+      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
+    </nav>
+    {{end}}
+
+    <!-- Sidebar for spiewnik -->
     <!-- Sidebar for spiewnik -->
     {{ ispage spiewnik/* }}
     {{ toc 2 2 }}
@@ -41,6 +53,7 @@
     </nav>
     {{end}}
 
+    <!-- Sidebar Contact Section -->
     <div class="sidebar-contact">
       <h4>Kontakt</h4><br>
       <p>Wydział Fizyki, Astronomii i <br> Informatyki Stosowanej UJ <br> Pokój H-1-03</p>
