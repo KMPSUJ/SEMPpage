@@ -1,0 +1,3 @@
+# Aktualności
+
+{{newslist}}
