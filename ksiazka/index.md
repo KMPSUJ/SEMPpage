@@ -16,6 +16,6 @@
 1. Wymieszać wszystko (za pomocą wybranego urządzenia do mieszania).
 2. Wylać dwie chochle na naleśnikarkę.
 3. Smażyć do smaku.
-4. Zwinąć z ulbionymi dodatkami (lub nie).
+4. Zwinąć z ulubionymi dodatkami (lub nie).
 
 @@
