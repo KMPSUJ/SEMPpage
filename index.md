@@ -87,8 +87,9 @@ Mimo, że nauka i studia w życiu sempów zajmują większą część życia (mi
 zawsze znajdzie się trochę czasu na spotkanie w bezpiecznej przystani pokoju H-1-03 na WFAIS.
 Można tam znaleźć kolegę, który pomoże w zdaniu przedmiotu, pudełko pizzy
 (z zawartością lub, gdy szczęście nie dopisze, bez), a w szczególnych przypadkach włączoną naleśnikarkę,
-przy której sam Prezes może przygotować strudzonym studentom ciepły obiad w postaci pysznego naleśnika.
-
+przy której sam Prezes może przygotować strudzonym studentom ciepły obiad w postaci pysznego naleśnika.\\
+\\
+[Kołowa książka naleśnikarska](/ksiazka/)
 @@fig
 \fig{/assets/planszowki.jpg}
 
