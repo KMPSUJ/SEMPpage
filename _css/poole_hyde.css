@@ -29,10 +29,11 @@
  */
 
 
-/*
+/* ==========================================================
  * Body resets
  *
  * Update the foundational and global aspects of the page.
+ * ==========================================================
  */
 
 * {
@@ -53,11 +54,14 @@ body {
   }
 }
 
+html {
+  font-family: 'Computer Modern Serif', Times, serif;
+  scroll-behavior: smooth; 
+}
+
 body {
   color: #e6e6e6;
   background-color: #333333;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -76,7 +80,10 @@ a:focus {
   text-decoration: none;
 }
 
-/* Headings */
+/* ==========================================================
+ * Headings 
+ * ==========================================================
+*/
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
   font-weight: bold;
@@ -117,7 +124,11 @@ strong {
 }
 
 
-/* Lists */
+/* 
+ * ==========================================================
+ * Lists
+ * ==========================================================
+*/
 ul,
 ol,
 dl {
@@ -133,7 +144,11 @@ dd {
   margin-bottom: 0.5rem;
 }
 
-/* Misc */
+/*
+ * ==========================================================
+ * Misc
+ * ==========================================================
+*/
 hr {
   position: relative;
   margin: 1.5rem 0;
@@ -154,7 +169,11 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
-/* Quotes */
+/* 
+ * ==========================================================
+ * Quotes
+ * ==========================================================
+*/
 blockquote {
   padding: 0.5rem 1rem;
   margin: 0.8rem 0;
@@ -181,15 +200,11 @@ img {
   margin-right: auto;
 }
 
-/* SVG icons */
-.svg-icon {
-  display: inline-block;
-  width: 16.3px;
-  height: 13.45px;
-  overflow: hidden;
-}
 
-/* Tables */
+/* ==========================================================
+ * Tables
+ * ==========================================================
+*/
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -227,31 +242,19 @@ tbody tr:nth-child(odd) th {
 /*
  * Contents
  *
- * Global resets
  * Sidebar
  * Container
  * Reverse layout
  * Themes
  */
 
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
-
-html {
-  font-family: 'Nunito Sans', sans-serif; /* MOŻNA DAĆ LEPSZĄ CZCIONE */
-  scroll-behavior: smooth; 
-}
-
-/*
+/* ==========================================================
  * Sidebar
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
- */
+ * ==========================================================
+*/
 
 .sidebar {
   text-align: left;
@@ -268,17 +271,15 @@ html {
   color: #fff;
 }
 
-@font-face {
-  font-family: CMU Classical serif;
-  src: url("../fonts/cmunci.ttf") format("truetype");
-}
 
 
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: CMU Classical serif;
+  font-family: Computer Modern Serif;
+  font-style: italic;
+  font-weight: normal;
   font-size: 2.3rem;
   max-width: 100%;
   text-align: center;
@@ -349,11 +350,10 @@ html {
 
 
 
-/*
- *
+/* ==========================================================
  * sidebar Positioning
- *
- */
+ * ==========================================================
+*/
 
 /* Sidebar settings for mobile version */
   .sidebar {
@@ -401,11 +401,13 @@ html {
   }
 }
 
-/* Container
+/* ==========================================================
+ * Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
- */
+ * ==========================================================
+*/
 
 .content {
   padding-top: 2rem;
@@ -568,6 +570,14 @@ html {
   margin-right: 30%;
   width: 40%;
   height: 18px;
+}
+
+/* SVG icons */
+.svg-icon {
+  display: inline-block;
+  width: 16.3px;
+  height: 13.45px;
+  overflow: hidden;
 }
 
 .bigger p{

@@ -59,7 +59,7 @@ html {
 
 .page-foot {
   font-size: 80%;
-  font-family: Arial, serif;
+  font-family: 'Computer Modern Sans', Arial, sans-serif;
   color: #a6a2a0;
   text-align: center;
   margin-top: 6em;
@@ -188,7 +188,7 @@ td {
 }
 
 .franklin-content a {
-  color: #3d6ccc;
+  color: rgb(109,145,219);
   text-decoration: none;
 }
 
