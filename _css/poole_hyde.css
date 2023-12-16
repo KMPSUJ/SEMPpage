@@ -271,17 +271,15 @@ tbody tr:nth-child(odd) th {
   color: #fff;
 }
 
-@font-face {
-  font-family: CMU Classical serif;
-  src: url("../fonts/cmunci.ttf") format("truetype");
-}
 
 
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: CMU Classical serif;
+  font-family: Computer Modern Serif;
+  font-style: italic;
+  font-weight: normal;
   font-size: 2.3rem;
   max-width: 100%;
   text-align: center;
