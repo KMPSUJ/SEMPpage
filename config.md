@@ -31,3 +31,16 @@ Add here global latex commands to use throughout your pages.
 <img src="#1" style="width: #2;" />
 ~~~
 }
+
+
+\newcommand{\figcaption}[3]{
+@@fig
+~~~
+<img src="#1" />
+~~~
+#2
+
+autor: #3
+@@
+}
+
