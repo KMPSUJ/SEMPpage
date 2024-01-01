@@ -1,15 +1,16 @@
 @@content-section
 ## Zarząd
 
-@@fig-centered
-~~~
-<img src="/assets/zarzad.jpg" style="width: 800px;">
-~~~
-Od lewej: Aleksander Lenart (zast. prezesa), Jakub Firlej (prezes), 
-Igor Piechowiak (skarbnik), Bartosz Żbik (zast. skarbnika)
+Aktualny zarząd koła (wybrany 28 listopada 2023):
+ * Prezes: Bartosz Żbik (Fizyka SMP)
+ * Skarbnik: Gabriela Kowacz (Chemia SMP)
+ * Zastępca Prezesa: Franciszek Ungeheuer (Fizyka SMP)
+ * Zastępca Skarbnika: Magdalena Stalicka (Bio??? SMP)
 
-autorka: Ksymena Poradzisz
-@@
+Komisja rewizyjna w składzie:
+ * Marianna Dekert
+ * Dominik Piasecki
+ * Mateusz Winiarski
 
 @@
 
