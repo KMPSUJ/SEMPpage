@@ -1,6 +1,7 @@
 @@header
-    <!-- <img src="/assets/logo_uj_biale.png" /> -->
-\fig{/assets/logo_uj_biale.png}
+~~~
+<img src="/assets/logo_uj_biale.png" class="topPageUJlogo" />
+~~~
 # Koło Matematyczno-Przyrodnicze Studentów Uniwersytetu Jagiellońskiego
 @@
 
