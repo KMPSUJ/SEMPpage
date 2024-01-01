@@ -424,6 +424,8 @@ tbody tr:nth-child(odd) th {
 
 .fig {
   padding-right: 2%;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .fig-centered {
