@@ -24,7 +24,6 @@ fd_mtime = Dates.format(today(), "yyyy-mm-dd")
 Add here global latex commands to use throughout your pages.
 -->
 \newcommand{\R}{\mathbb R}
-\newcommand{\scal}[1]{\langle #1 \rangle}
 
 \newcommand{\figwidth}[2]{
 ~~~
@@ -38,6 +37,7 @@ Add here global latex commands to use throughout your pages.
 ~~~
 <img src="#1" />
 ~~~
+
 #2
 
 autor: #3
