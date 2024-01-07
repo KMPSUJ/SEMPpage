@@ -1,4 +1,4 @@
-@@header
+
 ~~~
 <img src="/assets/logo_uj_biale.png" class="topPageUJlogo" />
 ~~~
@@ -52,7 +52,7 @@ utworzenie przestrzeni do interdyscyplinarnej dyskusji.
 Podczas konferencji posługujemy się językiem angielskim,
 co umożliwia lepsze przygotowanie na konferencje międzynarodowe oraz podszlifowanie swoich umiejętności językowych. \\
 \\
-[Strona Sempowiska 2023](https://sempowisko.com/home/sempowisko-2023/)
+[Strona SeMPowiska 2024](https://sempowisko.com/2024/)
 @@
 
 @@fig
