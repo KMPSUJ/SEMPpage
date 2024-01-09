@@ -1,3 +1,5 @@
+@@content-section
 # Aktualności
 
 {{newslist}}
+@@
