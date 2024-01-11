@@ -14,6 +14,7 @@ rss_description = "Kolowe seminarium pt.: $title."
 semiplaceandtime = "FAIS sala A-1-08, wtorek ($semidate) o 18:15"
 +++
 
+@@content-section
 # SeMPinarium -- {{fill semidate}}
 
 Temat: {{fill semititle}} \\
@@ -24,7 +25,7 @@ Koło miało kolejne SeMPinarium, temat ewoluował czasowo w kierunku wstępu do
 Planujemy dokończyć temat w najbliższym czasie, bo konieczne okazało się nadrobienie kilku podstaw.
 
 
-\figcaption{semi-kwanty.jpg}{Seminarium, kawałek wykładu}{Ksymena Poradzisz}
+\figcaption{/aktualnosci/2024/01/semi-kwanty.jpg}{Seminarium, kawałek wykładu}{Ksymena Poradzisz}
 
 \\ \\ \\
 ~~~
@@ -32,3 +33,4 @@ Planujemy dokończyć temat w najbliższym czasie, bo konieczne okazało się na
 Dodano {{fill published}} przez {{fill authors}}.
 </small>
 ~~~
+@@
