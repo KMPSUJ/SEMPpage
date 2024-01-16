@@ -1,5 +1,5 @@
 +++
-semititle = "Otwarte układy kwantowe"
+semititle = "Ewolucja otwartych układów kwantowych"
 semispeaker = "Jakub Czartowski"
 semidate = "23 stycznia 2024"
 
