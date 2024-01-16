@@ -22,9 +22,7 @@ Prelegent: {{fill semispeaker}} \\
 Gdzie i kiedy: {{fill semiplaceandtime}}
 
 Abstrakt: \\
-
-
-
+W fizyce często zapominamy, że powietrze stawia opór, tafla lodu jest chropowata, a ogólniej - że istnieje coś poza rozważanym obiektem, który stanowi układ zamknięty. Nie inaczej wygląda sytuacja w standardowej mechanice kwantowej, gdzie opisywany przez równanie Schrodingera samotny elektron obiega samotny proton w pustej przestrzeni. Wychodząc od zwykłych pojęć przedstawię wam, w jaki sposób od znanej nam teorii dla układów zamkniętych można wyjść do otwartych układów kwantowych, gdzie znane nam obiekty oddziałują z niekoniecznie znanym środowiskiem.
 \\ \\ \\
 ~~~
 <small>
