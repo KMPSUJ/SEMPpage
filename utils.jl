@@ -29,6 +29,9 @@ end
 # but see also:
 # https://github.com/tlienart/Franklin.jl/issues/331
 # https://github.com/tlienart/Franklin.jl/issues/391#issuecomment-612810743
+#
+# In case of pagevar errors: https://github.com/tlienart/Franklin.jl/issues/995
+# which tells to pin Franklin at version 0.10.58
 """
     {{newslist}}
 
