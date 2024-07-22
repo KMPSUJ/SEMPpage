@@ -117,6 +117,10 @@ h6 {
 h1 {
   font-size: 2rem;
 }
+.franklin-content h1 {
+  text-align: center;
+  border-bottom: none;
+}
 
 h2 {
   margin-top: 1rem;

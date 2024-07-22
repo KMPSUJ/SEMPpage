@@ -1,6 +1,8 @@
 @@header
 ~~~
-<img src="/assets/logo_uj_biale.png" class="topPageUJlogo" />
+<div style="width: 30%; margin: 0.5rem auto">
+    <img src="/assets/logo_uj_biale.png" alt="Logo Uniwersytetu Jagiellońskiego>
+</div>
 ~~~
 # Koło Matematyczno-Przyrodnicze Studentów Uniwersytetu Jagiellońskiego
 @@
