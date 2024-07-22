@@ -1,7 +1,7 @@
 @@header
 ~~~
-<div style="width: 30%; margin: 0.5rem auto">
-    <img src="/assets/logo_uj_biale.png" alt="Logo Uniwersytetu Jagiellońskiego>
+<div style="width: 20%; margin-top: 0.5rem; margin-bottom: 0.5rem; margin-left: auto; margin-right: auto;">
+    <img src="/assets/logo_uj_biale.png" alt="Logo Uniwersytetu Jagiellońskiego" style="width: 100%; padding: 0;">
 </div>
 ~~~
 # Koło Matematyczno-Przyrodnicze Studentów Uniwersytetu Jagiellońskiego
@@ -11,13 +11,7 @@
 <!-- <div id="about-section" class="content-section"> -->
 ## Kim jesteśmy
 
-@@fig-centered
-\figwidth{/assets/wigilia.jpg}{700px}
-
-Uśmiechnięci kołowicze, Wigilia 2022
-
-autorka: Ksymena Poradzisz
-@@
+\figcaption{/assets/wigilia.jpg}{Uśmiechnięci kołowicze, Wigilia 2022}{Ksymena Poradzisz}
 
 
 ### O kole
