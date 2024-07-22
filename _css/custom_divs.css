@@ -18,25 +18,21 @@
   padding: 0;
 }
 
-
+/* Figure aligned left. Uses \figcentered command */
 .fig-centered {
-    margin-top: 1em;
-    margin-bottom: 1em;
-}
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
 
+  width: 80%;
+
+  text-align: center;
+}
 
 .fig-centered img { /* figure */
-  display: block;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
-
-.fig-centered p { /* description of figure */
-  text-align: center;
-  padding-top: 1%;
-  margin: auto;
-
+  width: 100%;
+  padding: 0;
 }
 
 .content-section {

@@ -46,3 +46,18 @@ autor: #3
 @@
 }
 
+\newcommand{\figcentered}[3]{
+@@fig-centered
+~~~
+<img src="!#1" alt="!#2" />
+
+<p>#2</p>
+
+<p style="font-size: var(--small);">
+autor: #3
+</p>
+~~~
+@@
+}
+
+

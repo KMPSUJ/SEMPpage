@@ -40,10 +40,6 @@ Dla osób preferujących informacje mailowe powstała ankieta dostępna pod link
 [smp.if.uj.edu.pl/lista-mailowa-30lecie](http://smp.if.uj.edu.pl/lista-mailowa-30lecie).
 Na podany w ankiecie adres mailowy wysyłane będą najważniejsze wiadomości organizacyjne dotyczące 30-lecia.
 
-@@fig-centered
-\figwidth{/absolwenci/noc-dinozaurow.jpg}{600px}
-
-autorka: Ksymena Poradzisz
-@@
+\figcentered{/absolwenci/noc-dinozaurow.jpg}{Noc Dinozaurów}{Ksymena Poradzisz}
 
 @@ 
