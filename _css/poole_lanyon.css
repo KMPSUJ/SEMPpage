@@ -189,7 +189,7 @@ abbr[title] {
 
 img {
   display: block;
-  margin: 0 0 1rem;
+  margin: auto;
   border-radius: 5px;
 }
 
@@ -249,7 +249,8 @@ tbody tr:nth-child(odd) th {
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--seconadry-background-color);
+  background-color: var(--accent-color)
 }
 
 .masthead-title {
@@ -404,6 +405,7 @@ tbody tr:nth-child(odd) th {
   font-size: var(--small);
   color: var(--less-inpotant-text-color);
   background-color: var(--accent-color);
+  border-right: 1px solid var(--seconadry-background-color);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -453,9 +455,8 @@ tbody tr:nth-child(odd) th {
 
 .sidebar-nav-iner-item {
   display: block;
-  /* line-height: 1.75; */
-  font-size: 13px;
-  text-indent: 12px;
+  font-size: var(--small);
+  padding: 0.1rem 0.8rem;
 }
 
 .sidebar-nav-item.active,
@@ -474,9 +475,14 @@ a.sidebar-nav-iner-item:focus {
     padding: 1.5rem;
   }
 
-  .sidebar-nav-item, .sidebar-nav-iner-item {
+  .sidebar-nav-item {
     padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-right: 1rem;
+  }
+
+  .sidebar-nav-iner-item {
+    padding-left: 1.8rem;
+    padding-right: 1rem;
   }
 }
 
