@@ -426,12 +426,17 @@ tbody tr:nth-child(odd) th {
 .sidebar-about h1 { /* About section from KMPSUJ */
   color: var(--header-text-color);
   margin-top: 0;
+  margin-bottom: 0;
   font-family: 'Computer Modern Serif', Times, serif;
   font-style: italic;
   font-weight: normal;
   font-size: 2.3rem;
   max-width: 100%;
   text-align: center;
+}
+.sidebar-about:hover,
+.sidebar-about:focus {
+  text-decoration: none;
 }
 
 .sidebar-item {
