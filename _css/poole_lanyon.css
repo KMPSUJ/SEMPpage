@@ -256,6 +256,10 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   margin-bottom: 0;
   color: var(--text-color);
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-end;
 }
 
 .masthead-title a {
@@ -269,13 +273,23 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+.masthead-title .logo {
+  height: 5rem;
+  padding: 0.2rem;
+}
+
 @media (max-width: 48rem) {
   .masthead-title {
-    text-align: center;
+    margin-right: 1rem;
   }
 
   .masthead-title small {
     display: none;
+  }
+
+  .masthead-title .logo {
+    height: 3rem;
+    padding: 0.1rem;
   }
 }
 
