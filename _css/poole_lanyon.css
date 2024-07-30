@@ -221,21 +221,9 @@ tbody tr:nth-child(odd) th {
 .container {
   /* padding-left:  1rem;
   padding-right: 1rem; */
-  max-width: 28rem;
+  max-width: 54rem;
   margin-left: auto;
   margin-right: auto;
-}
-
-@media (min-width: 38rem) {
-  .container {
-    max-width: 32rem;
-  }
-}
-
-@media (min-width: 56rem) {
-  .container {
-    max-width: 38rem;
-  }
 }
 
 
@@ -256,6 +244,7 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
+  margin-right: 2%;
   color: var(--text-color);
   display: flex;
   flex-wrap: wrap;
@@ -280,10 +269,6 @@ tbody tr:nth-child(odd) th {
 }
 
 @media (max-width: 48rem) {
-  .masthead-title {
-    margin-right: 1rem;
-  }
-
   .masthead-title small {
     display: none;
   }
