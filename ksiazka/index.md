@@ -28,7 +28,7 @@ Na tej stroni obowiązuje układ jednostek SIMP.
 ### Składniki
 * kubek Firleya mąki
 * pół kubka Firleya wrzątku
-* 3/8 łyżeczki (ok. 
+* 3/8 łyżeczki (ok. 0.005 kubka Firleya)
 * krew chrześcijańskich dzieci (do smaku)
 
 ### Algorytm wykonywania
