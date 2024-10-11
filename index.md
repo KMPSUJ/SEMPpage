@@ -1,6 +1,8 @@
 @@header
 ~~~
-<img src="/assets/logo_uj_biale.png" class="topPageUJlogo" />
+<div style="width: 20%; margin-top: 0.5rem; margin-bottom: 0.5rem; margin-left: auto; margin-right: auto;">
+    <img src="/assets/logo_uj_biale.png" alt="Logo Uniwersytetu Jagiellońskiego" style="width: 100%; padding: 0;">
+</div>
 ~~~
 # Koło Matematyczno-Przyrodnicze Studentów Uniwersytetu Jagiellońskiego
 @@
@@ -9,13 +11,7 @@
 <!-- <div id="about-section" class="content-section"> -->
 ## Kim jesteśmy
 
-@@fig-centered
-\figwidth{/assets/wigilia.jpg}{700px}
-
-Uśmiechnięci kołowicze, Wigilia 2022
-
-autorka: Ksymena Poradzisz
-@@
+\figcaption{/assets/wigilia.jpg}{Uśmiechnięci kołowicze, Wigilia 2022}{Ksymena Poradzisz}
 
 
 ### O kole
@@ -129,47 +125,4 @@ autorka: Martyna Koprowska
 @@
 
 @@
-
-~~~
-<div id="kontakt-section" class="content-section">
-    <h2 id="kontakt" ><a href="#kontakt" class="header-anchor">Kontakt</a></h2>
-    <div class="contact-blocks">
-    <div class="contact-block">
-        <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/icons/house-icon-white.svg" class="svg-icon">
-        Strona kierunku SMP
-        </a>
-    </div>
-    <div class="contact-block">
-        <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
-        <img src="/assets/icons/mail-icon-white.svg" class="svg-icon"> kmpsuj@uj.edu.pl</a>
-    </div>
-    <div class="contact-block">
-        <a href="https://discord.gg/zTdm3MA6SE" target="_blank" rel="noreferrer">
-        <img src="/assets/icons/discord-icon-white.svg" class="svg-icon">
-        Serwer discord</a>
-    </div>
-    <div class="contact-block">
-         <a href="https://www.facebook.com/KMPSUJ" target="_blank" rel="noreferrer">
-        <img src="/assets/icons/facebook-icon-white.svg" class="svg-icon"> 
-        Fanpage KMPSUJ</a>
-    </div>
-    <div class="contact-block">
-        <a href="https://www.facebook.com/groups/1538199476497722/" target="_blank" rel="noopener">
-        <img src="/assets/icons/facebook-icon-white.svg" class="svg-icon"> 
-        Grupa członkowska</a>
-    </div>
-    <div class="contact-block">
-        <a href="https://www.linkedin.com/company/ko%C5%82o-matematyczno-przyrodnicze-student%C3%B3w-uj" target="_blank" rel="noreferrer">
-        <img src="/assets/icons/linkedin-icon-white.svg" class="svg-icon"> 
-        LinkedIn</a>
-    </div>
-    <div class="contact-block">
-        <a href="https://github.com/KMPSUJ" target="_blank" rel="noreferrer">
-        <img src="/assets/icons/github-icon-white.svg" class="svg-icon"> 
-        Github</a>
-    </div>
-    </div>
-</div>
-~~~
 

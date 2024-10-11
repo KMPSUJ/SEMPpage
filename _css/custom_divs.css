@@ -1,0 +1,149 @@
+/* Contact sections are turnd off unless screen is boath wide and high */
+.sidebar-contact {
+	font-size: var(--small);
+}
+
+/* Figure aligned left. Uses \figcaption command */
+.fig {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+  margin-right: auto;
+
+  width: 80%;
+  padding-left: 7%;
+}
+.fig img {
+  width: 100%;
+  padding: 0;
+}
+
+/* Figure aligned left. Uses \figcentered command */
+.fig-centered {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 80%;
+
+  text-align: center;
+}
+
+.fig-centered img { /* figure */
+  width: 100%;
+  padding: 0;
+}
+
+.content-section {
+  background-color: #262626;
+  padding: 3% 1.3%;
+  margin: 3% 1%;
+  height: auto;
+}
+
+
+.content-section h1 {
+    margin-top: 0;
+}
+
+.content-section h3 {
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+
+.header {
+    background-color: #262626;
+    padding: 1% 1%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.baner img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.event-descrb {
+  margin: 1rem;
+}
+
+@media (min-width: 1200px) { /* TODO could use further adjustments */
+        .event-descrb {
+            display: grid;
+	    grid-template-columns: 3fr 2fr;
+        }
+
+	.event-descrb .event-descrb-text {
+		padding: 1rem;
+	}
+
+	.event-descrb .fig p {
+		text-align: right;
+	}
+
+	.event-descrb .fig img {
+		margin: auto;
+		width: 100%;
+	}
+}
+
+.header-anchor {
+  cursor: text;
+}
+
+.header-anchor:active {
+  pointer-events: none;
+}
+
+.contact-blocks {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  margin: auto;
+}
+
+.contact-block {
+  text-align: center;
+  font-size: 60%;
+  overflow-wrap: break-word;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.contact-block:hover {
+  transition: 0.2s;
+  background-color: #808080;
+}
+
+.contact-block a {
+  color: rgb(232, 230, 227);
+}
+
+.contact-block a:hover{
+  text-decoration: none;
+}
+
+.contact-block img {
+  margin: auto;
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 40%;
+  height: 18px;
+}
+
+/* SVG icons */
+.svg-icon {
+  display: inline-block;
+  width: 16.3px;
+  height: 13.45px;
+  overflow: hidden;
+}
+
+#kontakt-section h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+

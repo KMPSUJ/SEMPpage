@@ -1,10 +1,16 @@
-<div class="sidebar">
-  <a href="/">
-    <div class="sidebar-about">
-      <img src="/assets/semp.png" alt="SMP logo">
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+
+  <div class="sidebar-item">
+  <a href="/" class="sidebar-about">
+    <div>
+      <img src="/assets/semp.png" alt="SMP logo" width=100%>
       <h1>KMPSUJ</h1>
     </div>
   </a>
+  </div>
 
     <!-- Sidebar for Index and Zarzad -->
     {{ ispage index || ispage zarzad }}
@@ -21,8 +27,6 @@
 
       <a class="sidebar-nav-item" href="/absolwenci">Dla Absolwentów</a>
       <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
-
-      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
     </nav>
     {{end}}
 
@@ -32,7 +36,6 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="/">Strona Główna</a>
       <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
-      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
     </nav>
     {{end}}
 
@@ -41,7 +44,6 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="/">Strona Główna</a>
       <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
-      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
     </nav>
     {{end}}
 
@@ -51,15 +53,15 @@
     {{ toc 2 2 }}
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="/">Strona Główna</a>
-      <a id="kontakt-section-link" class="sidebar-nav-item" href="/#kontakt">Kontakt</a>
     </nav>
     {{end}}
 
     <!-- Sidebar Contact Section -->
+    <div class="sidebar-item">
     <div class="sidebar-contact">
       <h4>Kontakt</h4><br>
       <p>Wydział Fizyki, Astronomii <br> i Informatyki Stosowanej UJ <br> Pokój H-1-03</p>
-      <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer"> 
+      <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/icons/house-icon-white.svg" class="svg-icon">Strona kierunku SMP</a><br>
 	    <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
 	   	<img src="/assets/icons/mail-icon-white.svg" class="svg-icon"> kmpsuj@uj.edu.pl</a><br>
@@ -74,4 +76,28 @@
       <a href="https://github.com/KMPSUJ" target="_blank" rel="noreferrer">
 	   	<img src="/assets/icons/github-icon-white.svg" class="svg-icon"> Github</a><br>
     </div>
+    </div>
 </div>
+
+<!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+content to avoid any CSS collisions with our real content. -->
+<div class="wrap">
+  <div class="masthead">
+    <div class="container">
+      <div class="masthead-title">
+	<small> Strona Koła SMP </small>
+        <div class="logo">
+	  <a href="/" title="Home">
+	    <img src="/assets/semp.png" alt="SMP logo" height=100%>
+	  </a>
+	</div>
+	<div class="logo">
+	  <a href="https://uj.edu.pl" title="UJ Home">
+	    <img src="/assets/logo_uj_biale.png" alt="logo Uniwersytetu Jagiellońskiego" height=100%>
+	  </a>
+	</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container content">
