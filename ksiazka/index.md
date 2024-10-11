@@ -2,7 +2,7 @@
 # Książka kucharska Koła Matematyczno-Przyrodniczego Studentów UJ
 @@
 
-Na tej stroni obowiązuje układ jednostek SIMP.
+Na tej stronie obowiązuje układ jednostek SIMP.
 
 @@content-section
 ## Naleśniki kołowe (wersja Firleya)
