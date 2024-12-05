@@ -12,5 +12,11 @@ Komisja rewizyjna w składzie:
  * Natalia Gajewska
  * Daria Stocka
 
+## Dokumenty
+ * [Statut Koła](/dokumenty/statut99.pdf)
+ * [Kodeks Koła](/dokumenty/kodeks22.pdf)
+ * [Księga Znaku](/dokumenty/ksienga.pdf)
+
+
 @@
 
