@@ -19,6 +19,7 @@ website_descr = "Strona główna KMPS UJ"
 website_url   = "smp.if.uj.edu.pl" 
 fd_mtime = Dates.format(today(), "yyyy-mm-dd")
 +++
+@def title = "KMPS UJ"
 
 <!--
 Add here global latex commands to use throughout your pages.

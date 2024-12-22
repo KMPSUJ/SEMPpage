@@ -167,7 +167,7 @@ td {
 
 .franklin-content blockquote {
   background: var(--block-background);
-  border-left: 7px solid var(--accent-color);
+  border-left: 7px solid #a8a8a8;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   font-style: italic;
@@ -187,7 +187,7 @@ td {
 }
 
 .franklin-content a {
-  color: var(--links-color);
+  color: #004de6;
   text-decoration: none;
 }
 
@@ -323,7 +323,7 @@ code {
 ================================================================== */
 
 .franklin-content .colbox-blue {
-  background-color: var(--block-background);
+  background-color: #eef3f5;
   padding-top: 5px;
   padding-right: 10px;
   padding-left: 10px;
@@ -332,5 +332,5 @@ code {
   margin-top: 5px;
   margin-bottom: 5px;
   border-radius: 0 10px 10px 0;
-  border-left: 5px solid var(--accent-color);
+  border-left: 5px solid #4c9cf1;
 }

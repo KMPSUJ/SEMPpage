@@ -8,3 +8,22 @@
   margin-right: auto;
 }
 
+/* Changed fixed colors form franklin.css to use global variables */
+.franklin-content blockquote {
+  border-left: 7px solid var(--accent-color);
+}
+
+.franklin-content a {
+  color: var(--links-color);
+  text-decoration: none;
+}
+
+.franklin-content .colbox-blue {
+  background-color: var(--block-background);
+  border-left: 5px solid var(--accent-color);
+}
+
+/* Adjust foot font colors */
+.franklin-content .page-foot a {
+  color: var(--less-inpotant-text-color);
+}

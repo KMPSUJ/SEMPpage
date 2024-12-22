@@ -1,7 +1,9 @@
-
 /* ===================================
  * Change global settings for Franklin
- * =================================== */
+ * =================================== 
+ * Use variables to set the color shame for the page.
+ * Fully change the colors by just changing those few variables. 
+ * */
 
 :root {
   --block-background: #262626;
@@ -10,9 +12,9 @@
   --normal: 19px;
   --text-color: #e6e6e6;
   /* more variables to make use later */
-  --background-color: #333333; 
+  --background-color: #333333;
   --seconadry-background-color: #505050;
-  --links-color: rgb(109,145,219);
+  --links-color: rgb(109, 145, 219);
   --contrast-text-color: #f78f3b;
   --header-text-color: #fff;
 
@@ -35,7 +37,6 @@
  * https://github.com/poole/poole.
  */
 
-
 /*
  * Contents
  *
@@ -44,12 +45,7 @@
  * Messages
  * Container
  * Masthead
- * Posts and pages
- * Pagination
- * Reverse layout
- * Themes
  */
-
 
 /*
  * Body resets
@@ -71,9 +67,9 @@ body {
 }
 
 html {
-  font-family: 'Computer Modern Serif', Times, serif;
+  font-family: "Computer Modern Serif", Times, serif;
   font-size: var(--normal);
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
 }
 
 body {
@@ -89,7 +85,8 @@ a {
   text-decoration: none;
 }
 
-a strong { /* was in KMPSUJ template */
+a strong {
+  /* was in KMPSUJ template */
   color: inherit;
   text-decoration: underline;
 }
@@ -117,10 +114,6 @@ h6 {
 h1 {
   font-size: 2rem;
 }
-.franklin-content h1 {
-  text-align: center;
-  border-bottom: none;
-}
 
 h2 {
   margin-top: 1rem;
@@ -140,15 +133,10 @@ h6 {
 }
 
 /* Body text */
-p { /* was commented in KMPSUJ webpage */
-  /* margin-top: 0;
-  margin-bottom: 1rem; */
-}
 
 strong {
   color: var(--contrast-text-color);
 }
-
 
 /* Lists */
 ul,
@@ -189,7 +177,7 @@ abbr[title] {
 
 img {
   display: block;
-  margin: auto;
+  margin: 0 0 1rem;
   border-radius: 5px;
 }
 
@@ -213,24 +201,35 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
+ * Wrapper
+ *
+ * The wrapper is used to position site content when the sidebar is toggled. We
+ * use an outter wrap to position the sidebar without interferring with the
+ * regular page content.
+ */
+
+.wrap {
+  position: relative;
+  width: 100%;
+}
+
+/*
  * Container
  *
  * Center the page content.
  */
 
 .container {
-  /* padding-left:  1rem;
-  padding-right: 1rem; */
   max-width: 54rem;
   margin-left: auto;
   margin-right: auto;
 }
 
-
 /*
  * Masthead
  *
  * Super small header above the content for site name and short description.
+ * class logo for inserting logotypes on top of your page.
  */
 
 .masthead {
@@ -238,7 +237,7 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid var(--seconadry-background-color);
-  background-color: var(--accent-color)
+  background-color: var(--accent-color);
 }
 
 .masthead-title {
@@ -253,6 +252,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title a {
+  padding-left: 0.1rem;
+  padding-right: 0.1rem;
   color: var(--header-text-color);
 }
 
@@ -261,11 +262,17 @@ tbody tr:nth-child(odd) th {
   font-weight: 400;
   color: var(--text-color);
   letter-spacing: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .masthead-title .logo {
   height: 5rem;
   padding: 0.2rem;
+}
+
+.masthead-title .logo img {
+  display: inline-block;
 }
 
 @media (max-width: 48rem) {
@@ -283,18 +290,13 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-
 /*
  * Page footer setup.
  *
  */
 
 .page-foot {
-  font-family: 'Computer Modern Sans', Arial, sans-serif;
-  color: var(--less-inpotant-text-color);
-}
-
-.franklin-content .page-foot a {
+  font-family: "Computer Modern Sans", Arial, sans-serif;
   color: var(--less-inpotant-text-color);
 }
 
@@ -313,58 +315,12 @@ tbody tr:nth-child(odd) th {
  * https://github.com/poole/lanyon.
  */
 
-
 /*
  * Contents
  *
- * Global resets
- * Masthead
  * Sidebar
  * Slide effect
- * Posts and pages
- * Pagination
- * Reverse layout
- * Themes
  */
-
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- * Moved to Poole part.
- */
-
-
-
-/*
- * Wrapper
- *
- * The wrapper is used to position site content when the sidebar is toggled. We
- * use an outter wrap to position the sidebar without interferring with the
- * regular page content.
- */
-
-.wrap {
-  position: relative;
-  width: 100%;
-}
-
-
-/*
- * Container
- *
- * Center the page content.
- * Moved to Poole part.
- */
-
-/*
- * Masthead
- *
- * Super small header above the content for site name and short description.
- * Moved to Poole part.
- */
-
 
 /*
  * Sidebar
@@ -390,18 +346,17 @@ tbody tr:nth-child(odd) th {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: 'Computer Modern Serif', Times, serif;
+  font-family: "Computer Modern Serif", Times, serif;
   font-size: var(--small);
   color: var(--less-inpotant-text-color);
   background-color: var(--accent-color);
-  border-right: 1px solid var(--seconadry-background-color);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 
 @media (min-width: 40rem) {
   .sidebar {
-    font-size: var(--normal)
+    font-size: var(--normal);
   }
 }
 
@@ -412,20 +367,16 @@ tbody tr:nth-child(odd) th {
   color: var(--header-text-color);
 }
 
-.sidebar-about h1 { /* About section from KMPSUJ */
+.sidebar-about h1 {
+  /* About section from KMPSUJ */
   color: var(--header-text-color);
   margin-top: 0;
-  margin-bottom: 0;
-  font-family: 'Computer Modern Serif', Times, serif;
+  font-family: "Computer Modern Serif", Times, serif;
   font-style: italic;
   font-weight: normal;
   font-size: 2.3rem;
   max-width: 100%;
   text-align: center;
-}
-.sidebar-about:hover,
-.sidebar-about:focus {
-  text-decoration: none;
 }
 
 .sidebar-item {
@@ -449,8 +400,9 @@ tbody tr:nth-child(odd) th {
 
 .sidebar-nav-iner-item {
   display: block;
-  font-size: var(--small);
-  padding: 0.1rem 0.8rem;
+  /* line-height: 1.75; */
+  font-size: 13px;
+  text-indent: 12px;
 }
 
 .sidebar-nav-item.active,
@@ -469,14 +421,10 @@ a.sidebar-nav-iner-item:focus {
     padding: 1.5rem;
   }
 
-  .sidebar-nav-item {
-    padding-left: 1.5rem;
-    padding-right: 1rem;
-  }
-
+  .sidebar-nav-item,
   .sidebar-nav-iner-item {
-    padding-left: 1.8rem;
-    padding-right: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
 }
 
@@ -532,7 +480,6 @@ a.sidebar-nav-iner-item:focus {
     border-bottom-width: 0.15rem;
   }
 }
-
 
 /* Slide effect
  *
