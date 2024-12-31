@@ -142,8 +142,6 @@
   overflow: hidden;
 }
 
-#kontakt-section h2 {
-  margin-top: 0;
-  margin-bottom: 0;
+.sidebar .svg-icon {
+  margin-right: 0.5rem;
 }
-
