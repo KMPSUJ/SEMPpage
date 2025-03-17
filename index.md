@@ -48,7 +48,7 @@ utworzenie przestrzeni do interdyscyplinarnej dyskusji.
 Podczas konferencji posługujemy się językiem angielskim,
 co umożliwia lepsze przygotowanie na konferencje międzynarodowe oraz podszlifowanie swoich umiejętności językowych. \\
 \\
-[Strona SeMPowiska 2024](https://sempowisko.com/2024/)
+[Strona SeMPowiska 2025](https://sempowisko.com/2025/)
 @@
 
 @@fig
