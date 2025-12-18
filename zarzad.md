@@ -15,7 +15,7 @@ Komisja rewizyjna w składzie:
 ## Dokumenty
  * [Statut Koła](/dokumenty/statut99.pdf)
  * [Kodeks Koła](/dokumenty/kodeks22.pdf)
- * [Logo Koła (pdf)](/dokumenty/logo.pdf)
+ * [Logo Koła (pdf)](/dokumenty/logo.pdf) [(svg)](/dokumenty/logo.svg)
  * [Księga Znaku](/dokumenty/ksienga.pdf)
 
 
