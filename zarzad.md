@@ -8,9 +8,11 @@ Aktualny zarząd koła (wybrany 24 listopada 2025):
  * Zastępca Skarbnika: Natalia Gajewska (Biofizyka MiK SMP)
 
 Komisja rewizyjna w składzie:
- * Jakub Ukalski
- * Ada Żbik
- * Bartosz Żmija
+ * Jakub Ukalski (Fizyka SMP)
+ * Ada Żbik (Chemia SMP)
+ * Bartosz Żmija (Chemia SMP)
+
+Opiekunem koła jest prof. dr hab. Dariusz Matoga z Wydziału Chemii UJ (kontakt możliwy przez usosweb).
 
 ## Dokumenty
  * [Statut Koła](/dokumenty/statut99.pdf)
