@@ -13,13 +13,13 @@
   --text-color: #e6e6e6;
   /* more variables to make use later */
   --background-color: #333333;
-  --seconadry-background-color: #505050;
+  --secondary-background-color: #505050;
   --links-color: rgb(109, 145, 219);
   --contrast-text-color: #f78f3b;
   --header-text-color: #fff;
 
   --accent-color: #003866;
-  --less-inpotant-text-color: rgba(255, 255, 255, 0.5);
+  --less-important-text-color: rgba(255, 255, 255, 0.5);
 }
 
 /*
@@ -236,7 +236,7 @@ tbody tr:nth-child(odd) th {
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid var(--seconadry-background-color);
+  border-bottom: 1px solid var(--secondary-background-color);
   background-color: var(--accent-color);
 }
 
@@ -297,7 +297,7 @@ tbody tr:nth-child(odd) th {
 
 .page-foot {
   font-family: "Computer Modern Sans", Arial, sans-serif;
-  color: var(--less-inpotant-text-color);
+  color: var(--less-important-text-color);
 }
 
 /*
@@ -348,7 +348,7 @@ tbody tr:nth-child(odd) th {
   overflow-y: auto;
   font-family: "Computer Modern Serif", Times, serif;
   font-size: var(--small);
-  color: var(--less-inpotant-text-color);
+  color: var(--less-important-text-color);
   background-color: var(--accent-color);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -442,7 +442,7 @@ a.sidebar-nav-iner-item:focus {
   width: 2.2rem;
   padding: 0.5rem 0.65rem;
   color: var(--links-color);
-  background-color: var(--seconadry-background-color);
+  background-color: var(--secondary-background-color);
   border-radius: 4px;
   cursor: pointer;
 }
@@ -464,7 +464,7 @@ a.sidebar-nav-iner-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: var(--header-text-color);
-  background-color: var(--seconadry-background-color);
+  background-color: var(--secondary-background-color);
 }
 
 @media (min-width: 30.1rem) {
