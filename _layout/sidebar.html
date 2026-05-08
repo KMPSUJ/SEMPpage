@@ -7,97 +7,74 @@
   <a href="/" class="sidebar-about">
     <div>
       <img src="/assets/semp.png" alt="SMP logo" width=100%>
-      <h1>KMPSUJ</h1>
+      <h1>KMPS UJ</h1>
     </div>
   </a>
   </div>
 
-    <!-- Sidebar for Index and Zarzad -->
-    {{ ispage index || ispage zarzad }}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="/#kim_jesteśmy">Kim jesteśmy</a>
-      <a class="sidebar-nav-iner-item" href="/#o_kole">O kole</a>
-      <a class="sidebar-nav-iner-item" href="/zarzad">Zarząd</a>
+  <!-- Sidebar NOT for spiewnik -->
+  {{ isnotpage spiewnik/* }}
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/#kim_jesteśmy">Kim jesteśmy</a>
 
-      <a class="sidebar-nav-item" href="/#co_robimy">Co robimy</a>
-      <a class="sidebar-nav-iner-item" href="/#sempowisko">SeMPowisko</a>
-      <a class="sidebar-nav-iner-item" href="/#sempinaria_kołowe_seminaria">Sempinaria</a>
-      <a class="sidebar-nav-iner-item" href="/#wydarzenia_integracyjne">Wydarzenia integracyjne</a>
-      <a class="sidebar-nav-iner-item" href="/#szkoły">Szkoły</a>
+    <a class="sidebar-nav-item" href="/#co_robimy">Co robimy</a>
+    <a class="sidebar-nav-iner-item" href="/#sempowisko">SeMPowisko</a>
+    <a class="sidebar-nav-iner-item" href="/#sempinaria_kołowe_seminaria">Sempinaria</a>
+    <a class="sidebar-nav-iner-item" href="/#wydarzenia_integracyjne">Wydarzenia integracyjne</a>
+    <a class="sidebar-nav-iner-item" href="/#szkoły">Szkoły</a>
 
-      <a class="sidebar-nav-item" href="/absolwenci">Dla Absolwentów</a>
-      <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
-    </nav>
-    {{end}}
+    <a class="sidebar-nav-item" href="/zarzad">Zarząd</a>
+    <a class="sidebar-nav-item" href="/absolwenci">Dla Absolwentów</a>
+    <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
+  </nav>
+  {{end}}
 
-    <!-- Sidebar for UnownedContent -->
-    <!-- Sidebar for Absolwenci TO BE CHANGED -->
-    {{ ispage absolwenci/* || ispage credits }}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="/">Strona Główna</a>
-      <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
-    </nav>
-    {{end}}
+  <!-- Sidebar for spiewnik -->
+  {{ ispage spiewnik/* }}
+  {{ toc 2 2 }}
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Strona Główna</a>
+  </nav>
+  {{end}}
 
-    <!-- Sidebar for Aktualnosci -->
-    {{ ispage aktualnosci/* }}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="/">Strona Główna</a>
-      <a class="sidebar-nav-item" href="/aktualnosci">Aktualności</a>
-    </nav>
-    {{end}}
-
-    <!-- Sidebar for spiewnik -->
-    <!-- Sidebar for spiewnik -->
-    {{ ispage spiewnik/* }}
-    {{ toc 2 2 }}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="/">Strona Główna</a>
-    </nav>
-    {{end}}
-
-    <!-- Sidebar Contact Section -->
-    <div class="sidebar-item">
+  <!-- Sidebar Contact Section -->
+  <div class="sidebar-item">
     <div class="sidebar-contact">
       <h4>Kontakt</h4><br>
       <p>Wydział Fizyki, Astronomii <br> i Informatyki Stosowanej UJ <br> Pokój H-1-03</p>
       <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/icons/house-icon-white.svg" class="svg-icon"> Strona kierunku SMP</a><br>
-	    <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/mail-icon-white.svg" class="svg-icon"> kmpsuj@uj.edu.pl</a><br>
+        <img src="/assets/icons/house-icon-white.svg" class="svg-icon"> Strona kierunku SMP</a><br>
+      <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
+        <img src="/assets/icons/mail-icon-white.svg" class="svg-icon"> kmpsuj@uj.edu.pl</a><br>
       <a href="https://discord.gg/zTdm3MA6SE" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/discord-icon-white.svg" class="svg-icon"> Serwer Discord</a><br>
+        <img src="/assets/icons/discord-icon-white.svg" class="svg-icon"> Serwer Discord</a><br>
       <a href="https://www.facebook.com/KMPSUJ" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/facebook-icon-white.svg" class="svg-icon"> Fanpage KMPSUJ</a><br>
+        <img src="/assets/icons/facebook-icon-white.svg" class="svg-icon"> Fanpage KMPSUJ</a><br>
       <a href="https://www.facebook.com/groups/1538199476497722/" target="_blank" rel="noopener">
-	   	<img src="/assets/icons/facebook-icon-white.svg" class="svg-icon"> Grupa członkowska</a><br>
+        <img src="/assets/icons/facebook-icon-white.svg" class="svg-icon"> Grupa członkowska</a><br>
       <a href="https://www.linkedin.com/company/ko%C5%82o-matematyczno-przyrodnicze-student%C3%B3w-uj" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/linkedin-icon-white.svg" class="svg-icon"> LinkedIn</a><br>
+        <img src="/assets/icons/linkedin-icon-white.svg" class="svg-icon"> LinkedIn</a><br>
       <a href="https://github.com/KMPSUJ" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/github-icon-white.svg" class="svg-icon"> GitHub</a><br>
+        <img src="/assets/icons/github-icon-white.svg" class="svg-icon"> GitHub</a><br>
     </div>
-    </div>
+  </div>
 </div>
 
 <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
 content to avoid any CSS collisions with our real content. -->
 <div class="wrap">
-  <div class="masthead">
-    <div class="container">
-      <div class="masthead-title">
-	<small> Strona Koła SMP </small>
-        <div class="logo">
-	  <a href="/" title="Home">
-	    <img src="/assets/semp.png" alt="SMP logo" height=100%>
-	  </a>
-	</div>
-	<div class="logo">
-	  <a href="https://uj.edu.pl" title="UJ Home">
-	    <img src="/assets/logo_uj_biale.png" alt="logo Uniwersytetu Jagiellońskiego" height=100%>
-	  </a>
-	</div>
+<div class="masthead">
+  <div class="container">
+    <div class="masthead-title">
+      <big> Strona Koła Matematyczno-Przyrodniczego Studentów UJ </big>
+      <div class="logo">
+        <img src="/assets/semp.png" alt="SMP logo" height=100%>
+      </div>
+      <div class="logo">
+        <img src="/assets/logo_uj_biale.png" alt="logo Uniwersytetu Jagiellońskiego" height=100%>
       </div>
     </div>
   </div>
+</div>
 
-  <div class="container content">
+<div class="container content">
