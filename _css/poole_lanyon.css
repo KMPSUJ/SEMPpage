@@ -350,7 +350,8 @@ tbody tr:nth-child(odd) th {
   left: -14rem;
   width: 14rem;
   visibility: hidden;
-  overflow-y: auto;
+  overflow-y: auto; 
+/* scrollbar-width: none; ustawia niewidoczny (ale wciąż działający scrollbar)*/
   font-family: "Computer Modern Serif", Times, serif;
   font-size: var(--small);
   color: var(--less-important-text-color);
