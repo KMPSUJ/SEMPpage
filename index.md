@@ -30,7 +30,7 @@ poseminaryjnych wyjść na piwo czy organizowanych kilka razy do roku wyjazdach 
 a bardziej koleżeńsko.
 
 Dołączyć do koła można w dowolnym momencie od pierwszego dnia studiów,
-wystarczy odezwać się w dowolnym z podanych mediów lub skontaktować bezpośrednio ze skarbnikiem.
+wystarczy skontaktować się z dowolnym członkiem zarządu lub komisji rewizyjnej i zapłacić składkę członkowską.
 @@
 
 
@@ -48,6 +48,7 @@ utworzenie przestrzeni do interdyscyplinarnej dyskusji.
 Podczas konferencji posługujemy się językiem angielskim,
 co umożliwia lepsze przygotowanie na konferencje międzynarodowe oraz podszlifowanie swoich umiejętności językowych. \\
 \\
+[Główna strona SeMPowiska](https://sempowisko.com) \\
 [Strona SeMPowiska 2026](https://sempowisko.com/2026/)
 @@
 
