@@ -3,58 +3,10 @@
 @@
 
 @@content-section
-## Hiszpańskie dziewczyny
+Informacja: na niniejszej stronie znajduje się śpiewnik naszego Koła w stanie z dnia 5.07.2024 i na ogół nie jest on tutaj aktualizowany. Jeśli chcesz poznać jego najbardziej aktualną wersję to zachęcamy do dołączenia do kołowego Discorda, gdzie się ona znajduje!
+@@
 
-Żegnajcie nam dziś hiszpańskie dziewczyny  \\
-Żegnajcie nam dziś marzenia ze snów  \\
-Ku brzegom angielskim już ruszać nam pora  \\
-Lecz kiedyś na pewno wrócimy tu znów  
-
-
-I smak waszych ust hiszpańskie dziewczyny  \\
-W noc ciemną i złą nam będzie się śnił  \\
-Leniwie popłyną znów rejsu godziny  \\
-Wspomnienie ust waszych przysporzy nam sił  
-
-
-Niedługo ujrzymy znów w dali Cape Deadman  \\
-I głowę baranią sterczącą wśród wzgórz  \\
-I statki stojące na redzie przed Plymouth  \\
-Klarować kotwicę najwyższy czas już  
-
-
-I smak waszych ust hiszpańskie dziewczyny  \\
-W noc ciemną i złą nam będzie się śnił  \\
-Leniwie popłyną znów rejsu godziny  \\
-Wspomnienie ust waszych przysporzy nam sił  
-
-
-A powiem znów żagle na masztach rozkwitną  \\
-Kurs szyper wyznaczy do Portland i Wight  \\
-I znów stara łajba potoczy się ciężko  \\
-Przez fale w kierunku na Beachie Fairlee Light  
-
-
-I smak waszych ust hiszpańskie dziewczyny  \\
-W noc ciemną i złą nam będzie się śnił  \\
-Leniwie popłyną znów rejsu godziny  \\
-Wspomnienie ust waszych przysporzy nam sił  
-
-
-Zabłysną nam bielą skał zęby pod Dover  \\
-I znów noc w kubryku wśród legend i bajd  \\
-Powoli i znojnie tak płynie nam życie  \\
-Na wodach i w portach przy South Foreland Light  
-
-
-I smak waszych ust hiszpańskie dziewczyny  \\
-W noc ciemną i złą nam będzie się śnił  \\
-Leniwie popłyną znów rejsu godziny  \\
-Wspomnienie ust waszych przysporzy nam sił
-
-
-
-
+@@content-section
 ## Przestrzenie liniowe
 
 Żegnajcie nam dziś, przestrzenie liniowe,  \\
@@ -70,7 +22,7 @@ Wspomnienie ciał waszych przysporzy nam sił
 
 
 Niedługo ujrzymy szeregi funkcyjne  \\
-ekstremów lokalnych w przedziale (a b)  \\
+ekstremów lokalnych w przedziale (a, b)  \\
 Dowody twierdzenia w notatkach z wykładów  \\
 Lecz znów na kolokwium nam wyjdzie to źle  
 
@@ -134,6 +86,111 @@ I smak waszych baz, przestrzenie liniowe...
 
 
 
+## Czarny Pan i Czarna Biblia
+
+Na algebrze złe tensory \\
+Do tablicy biorą mnie \\
+Świat ma tylko cztery zbiory \\
+a w tym świecie niema mnie
+
+
+Czarną Biblię otworzyłem \\
+wielki żal ogarnął mnie \\
+po policzkach łzy spłynęły \\
+zrozumiałem wtedy że
+
+
+Czarny Pan i Czarna Biblia \\
+Opętani swą mądrością \\
+myślą jak tu stworzyć przedmiot \\
+z bardzo niską zdawalnością
+
+
+Młodsza siostra zapytała \\
+Mamo gdzie braciszek mój \\
+brat twój w ciemnej jest piwnicy \\
+rozwiązuje zadań zbiór
+
+
+Czarny Pan i Czarna Biblia...
+
+
+Na egzamin student wpada \\
+Odechciewa mu się żyć \\
+gdy pytania swe usłyszał \\
+serce mu przestało bić
+
+
+Gdy nadejdzie chwila grozy \\
+czarny Pan osądzi mnie  \\
+zaliczenia nie otrzymam  \\
+a na auli będą znów
+
+
+ten sam Czarny Pan i Czarna Biblia...
+
+
+
+
+## Sesja
+
+Już nad FAISem zapada noc \\
+Każdy spać już położył się
+
+Jeszcze tylko studenci w kole SMP \\
+Przeglądają notatki swe x2
+
+
+Jeden z nich na kanapie już śpi \\
+Jutro przyjdzie z algebrą się bić
+
+
+A studenci znurzeni w kole SMP  \\
+Za zwycięstwo znów będą swe pić x2
+
+
+Kubek z kawą każdy wznosi do ust \\
+Bracia toast, niech idzie na dno
+
+
+Tylko jeden sam w kącie siedzi z biblią \\
+I po cichu liczy na cud x2
+
+
+Nie podności kielicha do ust \\
+Zawsze on tu najgłośniej się śmiał
+
+
+Mistrz Żywomir z WMI uwalił go \\
+Już nie będzie za całki się brał x2
+
+
+Tak nie wielu zostało dziś ich \\
+Resztę dziekan wyjebał na bruk
+
+
+Chociaż termo zdali analizę już nie \\
+Ich przygoda skończyła się źle x2
+
+
+To ostatni egzamin już jest \\ 
+Uwaliłem choć starałem się 
+
+
+Na warunek zabrakło mi punkta lub dwóch \\
+Będę musiał powtarzać ten rok x2
+
+
+Już nad FAISem zapada noc \\
+Każdy spać już położył się 
+
+
+I już gasną światełka w kole SMP \\
+Sesja wreszcie skończyła się x2
+
+
+
+
 ## Lurches (Phirley version)
 
 Pierwszy raz przy pełnym takielunku\\
@@ -188,4 +245,39 @@ Oho ho! przestrzenie i przestrzenie\\
 Oho ho! za ramką ramka mknie (ale ramka)\\
 Oho ho! trzymajcie się sempy (za rzepy)\\
 Ale sesja, piątka chyba dmie
+
+
+
+
+## Pożegnanie algebry liniowej
+
+Żegnaj nam dostojna czarna biblio \\
+Gauss-Jordanie żegnaj nam \\ 
+Zapisałem się już na kursik z kwantów \\ 
+jeśli zdamy opowiemy wam
+
+
+A więc żegnaj mi algebro ma \\
+już za chwile wyruszamy w kwantów kurs \\
+Ile miesięcy cię będę używał \\
+nie wiem sam \\
+lecz pamiętać zawsze będę cię
+
+
+Zapisałem się na mechanikę kwantową \\
+fajny przedmiot, chodź sławę ma złą \\
+a że wykładowcą jest tam Andrzej Herdegen \\
+to studenckim piekłem wszyscy go zwą
+
+
+A więc żegnaj mi algebro ma... \\
+
+
+Ten profesor uwalił mnie nie jeden raz \\
+znamy się od wielu wielu lat \\
+jeśliś dobrym studentem radę sobie dasz \\
+jeśli nie toś cholernie wpadł
+
+
+A więc żegnaj mi algebro ma ... x2 \\
 @@
