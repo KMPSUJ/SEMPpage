@@ -28,6 +28,9 @@
   width: 80%;
 
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .fig-centered img { /* figure */

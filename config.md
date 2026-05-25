@@ -49,12 +49,11 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\figcentered}[3]{
 @@fig-centered
 ~~~
-<img src="!#1" alt="!#2" />
+<img src="!#1" alt="!#2" style="width: !#3;" />
 
 <p>#2</p>
 
-<p style="font-size: var(--small);">
-autor: #3
+<p style="font-size: var(--normal);">
 </p>
 ~~~
 @@
