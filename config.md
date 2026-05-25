@@ -33,7 +33,7 @@ Add here global latex commands to use throughout your pages.
 }
 
 
-\newcommand{\figcaption}[3]{
+\newcommand{\figcaption}[2]{
 @@fig
 ~~~
 <img src="!#1" alt="!#2" />
@@ -41,7 +41,6 @@ Add here global latex commands to use throughout your pages.
 <p>#2</p>
 
 <p style="font-size: var(--small); text-align: right;">
-autor: #3
 </p>
 ~~~
 @@

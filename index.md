@@ -11,7 +11,7 @@
 <!-- <div id="about-section" class="content-section"> -->
 ## Kim jesteśmy
 
-\figcaption{/assets/wigilia.jpg}{Uśmiechnięci kołowicze, Wigilia 2022}{Ksymena Poradzisz}
+\figcaption{/assets/wigilia.jpg}{Uśmiechnięci kołowicze podczas wigilli kołowej}
 
 
 ### O kole
@@ -54,8 +54,6 @@ co umożliwia lepsze przygotowanie na konferencje międzynarodowe oraz podszlifo
 
 @@fig
 \fig{/assets/sempowisko.jpg}
-
-autorka: Ksymena Poradzisz
 @@
 @@
 
@@ -75,8 +73,6 @@ Po wysłuchanym wykładzie proces poznawczy sempów jest najczęściej kontynuow
 
 @@fig
 \fig{/assets/sempinarium.jpg}
-
-autorka: Ksymena Poradzisz
 @@
 @@
 
@@ -96,9 +92,7 @@ przy której sam Prezes może przygotować strudzonym studentom ciepły obiad w 
 @@
 
 @@fig
-\fig{/assets/planszowki.jpg}
-
-autorka: Ksymena Poradzisz
+\fig{/assets/czartowski_integracja.jpg}
 @@
 @@
 
@@ -119,9 +113,7 @@ i mniejszych zapaleńców), podczas obowiązkowej sesji referatowej dzielimy si�
 @@
 
 @@fig
-\fig{/assets/szkola_letnia_kolowicze.jpg}
-
-autorka: Martyna Koprowska
+\fig{/assets/szkola.jpeg}
 @@
 @@
 
