@@ -11,7 +11,7 @@
 <!-- <div id="about-section" class="content-section"> -->
 ## Kim jesteśmy
 
-\figcaption{/assets/wigilia.jpg}{Uśmiechnięci kołowicze podczas wigilli kołowej}
+\figcentered{/assets/wigilia.jpg}{Uśmiechnięci kołowicze podczas wigilli kołowej}{90%}
 
 
 ### O kole
