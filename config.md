@@ -59,4 +59,4 @@ Add here global latex commands to use throughout your pages.
 @@
 }
 
-
+\newcommand{\SeMPowisko}{$\large \hbox{S} \normalsize \kern{-.25em}\raisebox{-0.2ex}{\hbox{e}}\raisebox{-.2ex}{\hbox{\large M\normalsize}}\kern-.1em \raisebox{.1ex}{\hbox{\large P\normalsize}}\kern-.3em \raisebox{.2ex}{\hbox{o}} \kern{-.2em} \raisebox{.4ex}{\hbox{w}}\raisebox{-.1ex}{\hbox{i}}\hbox{s}\raisebox{.2ex}{\hbox{k}}\kern-.25em \raisebox{-.2ex}{\hbox{o}}$}

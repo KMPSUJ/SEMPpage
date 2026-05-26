@@ -38,7 +38,7 @@ wystarczy skontaktować się z dowolnym członkiem zarządu lub komisji rewizyjn
 @@content-section
 ## Co robimy
 
-### SeMPowisko
+### \SeMPowisko
 @@event-descrb
 @@event-descrb-text
 Coroczna Interdyscyplinarna Studencka Konferencja „SeMPowisko” jest wydarzeniem o zasięgu (co najmniej) ogólnopolskim,
