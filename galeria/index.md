@@ -8,7 +8,7 @@ Wybrane zdjęcia kołowiczy z (mam nadzieję) śmiesznymi podpisami, żeby pokaz
 
 @@content-section
 
-\figcentered{/assets/galeria/nowy_zarzad.jpg}{Zaprzysiężenia nowego zarządu KMPS UJ}{100%}
+\figcentered{/assets/galeria/nowy_zarzad.jpg}{Zaprzysiężenie nowego zarządu KMPS UJ}{100%}
 
 \figcentered{/assets/galeria/it-support.jpg}{IT-Support w formie}{80%}
 
@@ -28,6 +28,6 @@ Wybrane zdjęcia kołowiczy z (mam nadzieję) śmiesznymi podpisami, żeby pokaz
 
 \figcentered{/assets/galeria/sempognisko.jpg}{SeMPognisko}{100%}
 
-\figcentered{/assets/galeria/panorama.jpg}{Piękne widoki na Szkole jesiennej}{100%}
+\figcentered{/assets/galeria/panorama.jpg}{Piękne widoki na szkole jesiennej}{100%}
 
 @@
