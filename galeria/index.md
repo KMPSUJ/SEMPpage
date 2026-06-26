@@ -2,7 +2,7 @@
 
 ## Galeria
 
-Wybrane zdjęcia kołowiczy z (mam nadzieję) śmiesznymi podpisami, żeby pokazać jacy jesteśmy fajni.
+Zbiór wybranych zdjęć kołowiczy z (mam nadzieję) śmiesznymi podpisami, mający na celu ukazanie realiów studenckiego życia oraz codziennej działalności koła.
 
 @@
 
@@ -18,9 +18,9 @@ Wybrane zdjęcia kołowiczy z (mam nadzieję) śmiesznymi podpisami, żeby pokaz
 
 \figcentered{/assets/galeria/renifer.jpg}{Święta w kole SMP}{100%}
 
-\figcentered{/assets/galeria/sempowisko2.jpg}{Michał tłumaczy czym jest pochodna}{100%}
+\figcentered{/assets/galeria/sempowisko2.jpg}{Michał tłumaczy czym jest manifold}{100%}
 
-\figcentered{/assets/galeria/sempowisko3.jpg}{Mądrzy ludzie na sempowisku}{100%}
+\figcentered{/assets/galeria/sempowisko3.jpg}{Fajni ludzie na sempowisku}{100%}
 
 \figcentered{/assets/galeria/sempowisko4.jpg}{Każde zdjęcie z sempowiska jest memem z sempowiska}{100%}
 
