@@ -1,17 +1,15 @@
 /* Contact sections are turnd off unless screen is boath wide and high */
 .sidebar-contact {
-	font-size: var(--small);
+  font-size: var(--small);
 }
 
 /* Figure aligned left. Uses \figcaption command */
 .fig {
-  margin-top: 0.5rem;
+  margin-top: 1rem;
   margin-bottom: 0.5rem;
-  margin-left: 0;
+  margin-left: auto;
   margin-right: auto;
-
   width: 80%;
-  padding-left: 7%;
 }
 .fig img {
   width: 100%;
@@ -33,7 +31,8 @@
   align-items: center;
 }
 
-.fig-centered img { /* figure */
+.fig-centered img {
+  /* figure */
   width: 100%;
   padding: 0;
 }
@@ -45,53 +44,51 @@
   height: auto;
 }
 
-
 .content-section h1 {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .content-section h3 {
-    font-weight: 1000;
-    font-size: 20px;
+  font-weight: 1000;
+  font-size: 20px;
 }
 
-
 .header {
-    background-color: #262626;
-    padding: 1% 1%;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+  background-color: #262626;
+  padding: 1% 1%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .baner img {
-    width: 100%;
-    margin: 0;
-    padding: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
-
 
 .event-descrb {
   margin: 1rem;
 }
 
-@media (min-width: 1200px) { /* TODO could use further adjustments */
-        .event-descrb {
-            display: grid;
-	    grid-template-columns: 3fr 2fr;
-        }
+@media (min-width: 1200px) {
+  /* TODO could use further adjustments */
+  .event-descrb {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+  }
 
-	.event-descrb .event-descrb-text {
-		padding: 1rem;
-	}
+  .event-descrb .event-descrb-text {
+    padding: 1rem;
+  }
 
-	.event-descrb .fig p {
-		text-align: right;
-	}
+  .event-descrb .fig p {
+    text-align: right;
+  }
 
-	.event-descrb .fig img {
-		margin: auto;
-		width: 100%;
-	}
+  .event-descrb .fig img {
+    margin: auto;
+    width: 100%;
+  }
 }
 
 .header-anchor {
@@ -125,7 +122,7 @@
   color: rgb(232, 230, 227);
 }
 
-.contact-block a:hover{
+.contact-block a:hover {
   text-decoration: none;
 }
 
@@ -133,6 +130,7 @@
   margin: auto;
   margin-left: 30%;
   margin-right: 30%;
+  padding: 0px;
   width: 40%;
   height: 18px;
 }

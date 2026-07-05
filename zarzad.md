@@ -12,7 +12,7 @@ Komisja rewizyjna w składzie:
  * Ada Żbik (Chemia SMP)
  * Bartosz Żmija (Chemia SMP)
 
-Ponadto, wyrazy podziękowania należą się IT-supportowi, sowim pomocnikom, sempogarniaczom, wolontariuszom SeMPowiska oraz wszystkim kołowiczom i Dinozałrom zaangażowanym w działalność naszego koła! 
+Ponadto, wyrazy uznania należą się IT-supportowi, sowim pomocnikom, sempogarniaczom, wolontariuszom SeMPowiska oraz wszystkim kołowiczom i Dinozałrom zaangażowanym w działalność naszego koła! 
 
 Opiekunem koła jest prof. dr hab. Dariusz Matoga z Wydziału Chemii UJ (kontakt możliwy przez usosweb).
 
@@ -22,4 +22,3 @@ Opiekunem koła jest prof. dr hab. Dariusz Matoga z Wydziału Chemii UJ (kontakt
  * [Logo Koła (pdf)](/dokumenty/logo.pdf) [(svg)](/dokumenty/logo.svg)
  * [Księga Znaku](/dokumenty/ksienga.pdf)
 @@
-
