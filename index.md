@@ -68,7 +68,6 @@ niszowymi zagadnieniami i ciekawostkami, których nie sposób znaleźć w sylabu
 Prócz możliwości wysłuchania barwnego referatu o tematyce z jednej z wielu dziedzin naukowych studiowanych przez Kołowiczów,
 spotkanie po godzinach zajęć w sali seminaryjnej pozwala poznać lepiej kolegów i koleżanki oraz uzyskać wgląd w to, co ich interesuje.
 Po wysłuchanym wykładzie proces poznawczy sempów jest najczęściej kontynuowany z tej mniej naukowej strony w zaprzyjaźnionym pubie.
-<!-- T.E.A. Time cenzura -->
 @@
 
 @@fig
