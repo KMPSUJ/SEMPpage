@@ -3,7 +3,7 @@ name: Build and Deploy Franklin
 on:
   push:
     branches:
-      - main # zmień na 'master', jeśli używasz starej nazwy głównej gałęzi
+      - github-pages # zmień na 'master', jeśli używasz starej nazwy głównej gałęzi
 
 permissions:
   contents: write
