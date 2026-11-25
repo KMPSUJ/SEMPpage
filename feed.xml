@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  KMPS UJ  ]]>
+    </title>
+    <link> smp.if.uj.edu.pl </link>
+    <description>
+      <![CDATA[  Strona główna KMPS UJ  ]]>
+    </description>
+    <atom:link
+      href="smp.if.uj.edu.pl/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 14 marca 2024: Równanie Naviera-Stokesa  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2024/03/SeMPinarium 14 marca 2024/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2024/03/SeMPinarium 14 marca 2024/index.html </guid>
+  <description>
+    <![CDATA[  Kołowe seminarium pt.: SeMPinarium 14 marca 2024: Równanie Naviera-Stokesa  ]]>
+  </description>  
+    
+  <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Sempowisko 2024 Rejestracja  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2024/02/RejestrSemp/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2024/02/RejestrSemp/index.html </guid>
+  <description>
+    <![CDATA[  Sempowisko 2024 Rejestracja.  ]]>
+  </description>  
+    
+  <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 23 stycznia 2024: Ewolucja otwartych układów kwantowych  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2024/01/semi-kwanty-2/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2024/01/semi-kwanty-2/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 23 stycznia 2024: Ewolucja otwartych układów kwantowych.  ]]>
+  </description>  
+    
+  <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 9 stycznia 2024: Wstęp do otwartych układów kwantowych  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2024/01/semi-kwanty/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2024/01/semi-kwanty/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 9 stycznia 2024: Wstęp do otwartych układów kwantowych.  ]]>
+  </description>  
+    
+  <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Podsumowanie jesieni 2023  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2024/01/podsumowanie2023/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2024/01/podsumowanie2023/index.html </guid>
+  <description>
+    <![CDATA[  Podsumowanie jesieni 2023.  ]]>
+  </description>  
+    
+  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 19 grudnia 2023: Dlaczego Kerr twierdzi że osobliwości nie istnieją?  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/12/semi-OTW/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/12/semi-OTW/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 19 grudnia 2023: Dlaczego Kerr twierdzi że osobliwości nie istnieją?.  ]]>
+  </description>  
+    
+  <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Wigilia Koła SMP  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/12/wigilia/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/12/wigilia/index.html </guid>
+  <description>
+    <![CDATA[  Info o wigilii  ]]>
+  </description>  
+    
+  <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 12 grudnia 2023: Resetowanie Stochastyczne  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/12/semi-resetowanie/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/12/semi-resetowanie/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 12 grudnia 2023: Resetowanie Stochastyczne.  ]]>
+  </description>  
+    
+  <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 24 października 2023: Punkty stałe uogólnionych łańcuchów Markowa, czyli jak jednym założeniem rozbroić problem nierozwiązywalny w jedno seminarium  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/10/semi-uogulnone-lancuchy/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/10/semi-uogulnone-lancuchy/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 24 października 2023: Punkty stałe uogólnionych łańcuchów Markowa, czyli jak jednym założeniem rozbroić problem nierozwiązywalny w jedno seminarium.  ]]>
+  </description>  
+    
+  <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Zwyczajne Walne Koła SMP  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/11/walne/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/11/walne/index.html </guid>
+  <description>
+    <![CDATA[  Info o walnym  ]]>
+  </description>  
+    
+  <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 21 listopada 2023: Podstawy Życia: Linux MS  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/11/semi-linux/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/11/semi-linux/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 21 listopada 2023: Podstawy Życia: Linux MS.  ]]>
+  </description>  
+    
+  <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 5 grudnia 2023: Czy mikroskopia świetlna jest przydatna w nowoczesnych badaniach?  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/12/semi-mikroskopia/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/12/semi-mikroskopia/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 5 grudnia 2023: Czy mikroskopia świetlna jest przydatna w nowoczesnych badaniach?.  ]]>
+  </description>  
+    
+  <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Szkoła jesienna 2023  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/11/jesienna/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/11/jesienna/index.html </guid>
+  <description>
+    <![CDATA[  Szkoła Jesienna  ]]>
+  </description>  
+    
+  <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Nauka gry w Brydża wraz z KNMF  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/11/bridge/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/11/bridge/index.html </guid>
+  <description>
+    <![CDATA[  Nauka gry w Brydża wraz z KNMF  ]]>
+  </description>  
+    
+  <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  SeMPinarium 7 listopada 2023: Raman wymuszony – jak, po co i dlaczego  ]]>
+  </title>
+  <link> smp.if.uj.edu.pl/aktualnosci/2023/11/semi-raman/index.html </link>
+  <guid> smp.if.uj.edu.pl/aktualnosci/2023/11/semi-raman/index.html </guid>
+  <description>
+    <![CDATA[  Kolowe seminarium pt.: SeMPinarium 7 listopada 2023: Raman wymuszony – jak, po co i dlaczego.  ]]>
+  </description>  
+    
+  <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>KMPS UJ</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
