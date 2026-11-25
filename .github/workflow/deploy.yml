@@ -1,0 +1,42 @@
+name: Build and Deploy Franklin
+
+on:
+  push:
+    branches:
+      - main # zmień na 'master', jeśli używasz starej nazwy głównej gałęzi
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Julia
+        uses: julia-actions/setup-julia@v2
+        with:
+          version: '1' # zainstaluje najnowszą stabilną wersję Julii
+
+      - name: Cache Julia packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.julia/artifacts
+          key: ${{ runner.os }}-julia-${{ hashFiles('**/Project.toml') }}
+
+      - name: Install dependencies and build site
+        run: |
+          julia --project=. -e '
+            using Pkg;
+            Pkg.instantiate();
+            using Franklin;
+            optimize()
+          '
+
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: __site
+          branch: gh-pages
